@@ -1,0 +1,22 @@
+select[name*="field_5332f14633886"]{
+    font-family: 'et-line';
+    font-size: 50px;
+    height: 120px;
+}
+select[name*="field_53431191f10dc"]{
+    font-family: 'et-line';
+    font-size: 50px;
+    height: 120px;
+}
+select[name*="field_534e8eaadfe20"]{
+    font-family: 'et-line';
+    font-size: 50px;
+    height: 120px;
+}
+#menu_content_content_eticon_btn_menu_tbl span.mceText{
+    font-family: 'et-line';
+    font-size: 22px;
+}
+#content_eticon_btn_text{
+    font-family: 'et-line';
+}

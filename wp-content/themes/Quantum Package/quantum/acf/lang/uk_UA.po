@@ -1,0 +1,3369 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quantum v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-04-14 13:34:31+0000\n"
+"Last-Translator: admin <asd@asd.ad>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Ukrainian\n"
+"X-Poedit-Country: UKRAINE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: acf/acf.php:485
+#@ acf
+msgid "Field&nbsp;Groups"
+msgstr ""
+
+#: acf/acf.php:486
+#: acf/core/controllers/field_groups.php:214
+#@ acf
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: acf/acf.php:487
+#: includes/addons/acf-flexible-content/views/options.php:54
+#@ acf
+msgid "Add New"
+msgstr ""
+
+#: acf/acf.php:488
+#@ acf
+msgid "Add New Field Group"
+msgstr ""
+
+#: acf/acf.php:489
+#@ acf
+msgid "Edit Field Group"
+msgstr ""
+
+#: acf/acf.php:490
+#@ acf
+msgid "New Field Group"
+msgstr ""
+
+#: acf/acf.php:491
+#@ acf
+msgid "View Field Group"
+msgstr ""
+
+#: acf/acf.php:492
+#@ acf
+msgid "Search Field Groups"
+msgstr ""
+
+#: acf/acf.php:493
+#@ acf
+msgid "No Field Groups found"
+msgstr ""
+
+#: acf/acf.php:494
+#@ acf
+msgid "No Field Groups found in Trash"
+msgstr ""
+
+#: acf/acf.php:579
+#: acf/core/views/meta_box_options.php:99
+#@ acf
+msgid "Custom Fields"
+msgstr ""
+
+#: acf/acf.php:597
+#: acf/acf.php:600
+#@ acf
+msgid "Field group updated."
+msgstr ""
+
+#: acf/acf.php:598
+#@ acf
+msgid "Custom field updated."
+msgstr ""
+
+#: acf/acf.php:599
+#@ acf
+msgid "Custom field deleted."
+msgstr ""
+
+#. translators: %s: date and time of the revision
+#: acf/acf.php:602
+#, php-format
+#@ acf
+msgid "Field group restored to revision from %s"
+msgstr ""
+
+#: acf/acf.php:603
+#@ acf
+msgid "Field group published."
+msgstr ""
+
+#: acf/acf.php:604
+#@ acf
+msgid "Field group saved."
+msgstr ""
+
+#: acf/acf.php:605
+#@ acf
+msgid "Field group submitted."
+msgstr ""
+
+#: acf/acf.php:606
+#@ acf
+msgid "Field group scheduled for."
+msgstr ""
+
+#: acf/acf.php:607
+#@ acf
+msgid "Field group draft updated."
+msgstr ""
+
+#: acf/acf.php:742
+#: includes/ui-drag/ui_drag-v3.php:145
+#: includes/ui-drag/ui_drag-v4.php:86
+#@ acf
+#@ default
+msgid "Thumbnail"
+msgstr ""
+
+#: acf/acf.php:743
+#@ acf
+msgid "Medium"
+msgstr ""
+
+#: acf/acf.php:744
+#@ acf
+msgid "Large"
+msgstr ""
+
+#: acf/acf.php:745
+#@ acf
+msgid "Full"
+msgstr ""
+
+#: acf/core/actions/export.php:26
+#: acf/core/views/meta_box_fields.php:58
+#: shortcodes/dialog-forms.php:201
+#@ acf
+#@ um_lang
+msgid "Error"
+msgstr ""
+
+#: acf/core/actions/export.php:33
+#@ acf
+msgid "No ACF groups selected"
+msgstr ""
+
+#: acf/core/api.php:1171
+#@ acf
+msgid "Update"
+msgstr ""
+
+#: acf/core/api.php:1172
+#@ acf
+msgid "Post updated"
+msgstr ""
+
+#: acf/core/controllers/addons.php:42
+#: acf/core/controllers/field_groups.php:307
+#@ acf
+msgid "Add-ons"
+msgstr ""
+
+#: acf/core/controllers/addons.php:130
+#: acf/core/controllers/field_groups.php:429
+#@ acf
+msgid "Repeater Field"
+msgstr ""
+
+#: acf/core/controllers/addons.php:131
+#@ acf
+msgid "Create infinite rows of repeatable data with this versatile interface!"
+msgstr ""
+
+#: acf/core/controllers/addons.php:137
+#: acf/core/controllers/field_groups.php:437
+#@ acf
+msgid "Gallery Field"
+msgstr ""
+
+#: acf/core/controllers/addons.php:138
+#@ acf
+msgid "Create image galleries in a simple and intuitive interface!"
+msgstr ""
+
+#: acf/core/controllers/addons.php:144
+#: acf/core/controllers/field_groups.php:445
+#: includes/addons/acf-options-page/acf-options-page.php:201
+#@ acf
+msgid "Options Page"
+msgstr ""
+
+#: acf/core/controllers/addons.php:145
+#@ acf
+msgid "Create global data to use throughout your website!"
+msgstr ""
+
+#: acf/core/controllers/addons.php:151
+#@ acf
+msgid "Flexible Content Field"
+msgstr ""
+
+#: acf/core/controllers/addons.php:152
+#@ acf
+msgid "Create unique designs with a flexible content layout manager!"
+msgstr ""
+
+#: acf/core/controllers/addons.php:161
+#@ acf
+msgid "Gravity Forms Field"
+msgstr ""
+
+#: acf/core/controllers/addons.php:162
+#@ acf
+msgid "Creates a select field populated with Gravity Forms!"
+msgstr ""
+
+#: acf/core/controllers/addons.php:168
+#@ acf
+msgid "Date & Time Picker"
+msgstr ""
+
+#: acf/core/controllers/addons.php:169
+#@ acf
+msgid "jQuery date & time picker"
+msgstr ""
+
+#: acf/core/controllers/addons.php:175
+#@ acf
+msgid "Location Field"
+msgstr ""
+
+#: acf/core/controllers/addons.php:176
+#@ acf
+msgid "Find addresses and coordinates of a desired location"
+msgstr ""
+
+#: acf/core/controllers/addons.php:182
+#@ acf
+msgid "Contact Form 7 Field"
+msgstr ""
+
+#: acf/core/controllers/addons.php:183
+#@ acf
+msgid "Assign one or more contact form 7 forms to a post"
+msgstr ""
+
+#: acf/core/controllers/addons.php:193
+#@ acf
+msgid "Advanced Custom Fields Add-Ons"
+msgstr ""
+
+#: acf/core/controllers/addons.php:196
+#@ acf
+msgid "The following Add-ons are available to increase the functionality of the Advanced Custom Fields plugin."
+msgstr ""
+
+#: acf/core/controllers/addons.php:197
+#@ acf
+msgid "Each Add-on can be installed as a separate plugin (receives updates) or included in your theme (does not receive updates)."
+msgstr ""
+
+#: acf/core/controllers/addons.php:219
+#: acf/core/controllers/addons.php:240
+#@ acf
+msgid "Installed"
+msgstr ""
+
+#: acf/core/controllers/addons.php:221
+#@ acf
+msgid "Purchase & Install"
+msgstr ""
+
+#: acf/core/controllers/addons.php:242
+#: acf/core/controllers/field_groups.php:422
+#: acf/core/controllers/field_groups.php:431
+#: acf/core/controllers/field_groups.php:439
+#: acf/core/controllers/field_groups.php:447
+#: acf/core/controllers/field_groups.php:455
+#@ acf
+msgid "Download"
+msgstr ""
+
+#: acf/core/controllers/export.php:50
+#: acf/core/controllers/export.php:159
+#@ acf
+msgid "Export"
+msgstr ""
+
+#: acf/core/controllers/export.php:216
+#@ acf
+msgid "Export Field Groups"
+msgstr ""
+
+#: acf/core/controllers/export.php:221
+#@ acf
+msgid "Field Groups"
+msgstr ""
+
+#: acf/core/controllers/export.php:222
+#@ acf
+msgid "Select the field groups to be exported"
+msgstr ""
+
+#: acf/core/controllers/export.php:239
+#: acf/core/controllers/export.php:252
+#@ acf
+msgid "Export to XML"
+msgstr ""
+
+#: acf/core/controllers/export.php:242
+#: acf/core/controllers/export.php:267
+#@ acf
+msgid "Export to PHP"
+msgstr ""
+
+#: acf/core/controllers/export.php:253
+#@ acf
+msgid "ACF will create a .xml export file which is compatible with the native WP import plugin."
+msgstr ""
+
+#: acf/core/controllers/export.php:254
+#@ acf
+msgid "Imported field groups <b>will</b> appear in the list of editable field groups. This is useful for migrating fields groups between Wp websites."
+msgstr ""
+
+#: acf/core/controllers/export.php:256
+#@ acf
+msgid "Select field group(s) from the list and click \"Export XML\""
+msgstr ""
+
+#: acf/core/controllers/export.php:257
+#@ acf
+msgid "Save the .xml file when prompted"
+msgstr ""
+
+#: acf/core/controllers/export.php:258
+#@ acf
+msgid "Navigate to Tools &raquo; Import and select WordPress"
+msgstr ""
+
+#: acf/core/controllers/export.php:259
+#@ acf
+msgid "Install WP import plugin if prompted"
+msgstr ""
+
+#: acf/core/controllers/export.php:260
+#@ acf
+msgid "Upload and import your exported .xml file"
+msgstr ""
+
+#: acf/core/controllers/export.php:261
+#@ acf
+msgid "Select your user and ignore Import Attachments"
+msgstr ""
+
+#: acf/core/controllers/export.php:262
+#@ acf
+msgid "That's it! Happy WordPressing"
+msgstr ""
+
+#: acf/core/controllers/export.php:268
+#@ acf
+msgid "ACF will create the PHP code to include in your theme."
+msgstr ""
+
+#: acf/core/controllers/export.php:269
+#: acf/core/controllers/export.php:310
+#@ acf
+msgid "Registered field groups <b>will not</b> appear in the list of editable field groups. This is useful for including fields in themes."
+msgstr ""
+
+#: acf/core/controllers/export.php:270
+#: acf/core/controllers/export.php:311
+#@ acf
+msgid "Please note that if you export and register field groups within the same WP, you will see duplicate fields on your edit screens. To fix this, please move the original field group to the trash or remove the code from your functions.php file."
+msgstr ""
+
+#: acf/core/controllers/export.php:272
+#@ acf
+msgid "Select field group(s) from the list and click \"Create PHP\""
+msgstr ""
+
+#: acf/core/controllers/export.php:273
+#: acf/core/controllers/export.php:302
+#@ acf
+msgid "Copy the PHP code generated"
+msgstr ""
+
+#: acf/core/controllers/export.php:274
+#: acf/core/controllers/export.php:303
+#@ acf
+msgid "Paste into your functions.php file"
+msgstr ""
+
+#: acf/core/controllers/export.php:275
+#: acf/core/controllers/export.php:304
+#@ acf
+msgid "To activate any Add-ons, edit and use the code in the first few lines."
+msgstr ""
+
+#: acf/core/controllers/export.php:295
+#@ acf
+msgid "Export Field Groups to PHP"
+msgstr ""
+
+#: acf/core/controllers/export.php:300
+#: acf/core/fields/tab.php:65
+#@ acf
+msgid "Instructions"
+msgstr ""
+
+#: acf/core/controllers/export.php:309
+#@ acf
+msgid "Notes"
+msgstr ""
+
+#: acf/core/controllers/export.php:316
+#@ acf
+msgid "Include in theme"
+msgstr ""
+
+#: acf/core/controllers/export.php:317
+#@ acf
+msgid "The Advanced Custom Fields plugin can be included within a theme. To do so, move the ACF plugin inside your theme and add the following code to your functions.php file:"
+msgstr ""
+
+#: acf/core/controllers/export.php:323
+#@ acf
+msgid "To remove all visual interfaces from the ACF plugin, you can use a constant to enable lite mode. Add the following code to your functions.php file <b>before</b> the include_once code:"
+msgstr ""
+
+#: acf/core/controllers/export.php:331
+#@ acf
+msgid "Back to export"
+msgstr ""
+
+#: acf/core/controllers/export.php:400
+#@ acf
+msgid "No field groups were selected"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:358
+#@ acf
+msgid "Move to trash. Are you sure?"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:359
+#@ acf
+msgid "checked"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:360
+#@ acf
+msgid "No toggle fields available"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:361
+#@ acf
+msgid "Field group title is required"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:362
+#@ acf
+msgid "copy"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:363
+#: acf/core/views/meta_box_location.php:62
+#: acf/core/views/meta_box_location.php:159
+#@ acf
+msgid "or"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:364
+#: acf/core/controllers/field_group.php:395
+#: acf/core/controllers/field_group.php:457
+#: acf/core/controllers/field_groups.php:148
+#@ acf
+msgid "Fields"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:365
+#@ acf
+msgid "Parent fields"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:366
+#@ acf
+msgid "Sibling fields"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:367
+#@ acf
+msgid "Hide / Show All"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:396
+#@ acf
+msgid "Location"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:397
+#: includes/addons/acf-options-page/acf-options-page.php:30
+#: includes/addons/acf-options-page/acf-options-page.php:31
+#@ acf
+msgid "Options"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:459
+#@ acf
+msgid "Show Field Key:"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:460
+#: acf/core/fields/page_link.php:138
+#: acf/core/fields/page_link.php:159
+#: acf/core/fields/post_object.php:328
+#: acf/core/fields/post_object.php:349
+#: acf/core/fields/select.php:224
+#: acf/core/fields/select.php:243
+#: acf/core/fields/taxonomy.php:347
+#: acf/core/fields/user.php:332
+#: acf/core/fields/wysiwyg.php:257
+#: acf/core/views/meta_box_fields.php:196
+#: acf/core/views/meta_box_fields.php:219
+#: includes/addons/acf-flexible-content/views/options.php:260
+#: includes/addons/acf-flexible-content/views/options.php:306
+#: includes/addons/acf-repeater/views/options.php:175
+#: includes/addons/acf-repeater/views/options.php:220
+#@ acf
+msgid "No"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:461
+#: acf/core/fields/page_link.php:137
+#: acf/core/fields/page_link.php:158
+#: acf/core/fields/post_object.php:327
+#: acf/core/fields/post_object.php:348
+#: acf/core/fields/select.php:223
+#: acf/core/fields/select.php:242
+#: acf/core/fields/taxonomy.php:346
+#: acf/core/fields/user.php:331
+#: acf/core/fields/wysiwyg.php:256
+#: acf/core/views/meta_box_fields.php:195
+#: acf/core/views/meta_box_fields.php:218
+#: includes/addons/acf-flexible-content/views/options.php:259
+#: includes/addons/acf-flexible-content/views/options.php:305
+#: includes/addons/acf-repeater/views/options.php:174
+#: includes/addons/acf-repeater/views/options.php:219
+#@ acf
+msgid "Yes"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:633
+#@ acf
+msgid "Front Page"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:634
+#@ acf
+msgid "Posts Page"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:635
+#@ acf
+msgid "Top Level Page (parent of 0)"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:636
+#@ acf
+msgid "Parent Page (has children)"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:637
+#@ acf
+msgid "Child Page (has parent)"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:645
+#@ acf
+msgid "Default Template"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:723
+#: includes/addons/acf-options-page/acf-options-page.php:489
+#@ default
+#@ acf
+msgid "Publish"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:724
+#@ default
+msgid "Pending Review"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:725
+#@ default
+msgid "Draft"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:726
+#@ default
+msgid "Future"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:727
+#@ default
+msgid "Private"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:728
+#@ default
+msgid "Revision"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:729
+#@ default
+msgid "Trash"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:742
+#@ default
+msgid "Super Admin"
+msgstr ""
+
+#: acf/core/controllers/field_group.php:757
+#: acf/core/controllers/field_group.php:778
+#: acf/core/controllers/field_group.php:785
+#: acf/core/fields/file.php:186
+#: acf/core/fields/image.php:170
+#: acf/core/fields/page_link.php:109
+#: acf/core/fields/post_object.php:274
+#: acf/core/fields/post_object.php:298
+#: acf/core/fields/relationship.php:601
+#: acf/core/fields/relationship.php:625
+#: acf/core/fields/user.php:276
+#@ acf
+msgid "All"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:147
+#: shortcodes/dialog-forms.php:128
+#: shortcodes/dialog-forms.php:203
+#@ default
+#@ um_lang
+msgid "Title"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:216
+#: acf/core/controllers/field_groups.php:253
+#@ acf
+msgid "Changelog"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:217
+#@ acf
+msgid "See what's new in"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:217
+#@ acf
+msgid "version"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:219
+#@ acf
+msgid "Resources"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:221
+#@ acf
+msgid "Getting Started"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:222
+#@ acf
+msgid "Field Types"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:223
+#@ acf
+msgid "Functions"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:224
+#@ acf
+msgid "Actions"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:225
+#: acf/core/fields/relationship.php:644
+#@ acf
+msgid "Filters"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:226
+#@ acf
+msgid "'How to' guides"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:227
+#@ acf
+msgid "Tutorials"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:232
+#@ acf
+msgid "Created by"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:244
+#@ acf
+msgid "Welcome to Advanced Custom Fields"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:245
+#@ acf
+msgid "Thank you for updating to the latest version!"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:245
+#@ acf
+msgid "is more polished and enjoyable than ever before. We hope you like it."
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:252
+#@ acf
+msgid "What’s New"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:255
+#@ acf
+msgid "Download Add-ons"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:309
+#@ acf
+msgid "Activation codes have grown into plugins!"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:310
+#@ acf
+msgid "Add-ons are now activated by downloading and installing individual plugins. Although these plugins will not be hosted on the wordpress.org repository, each Add-on will continue to receive updates in the usual way."
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:316
+#@ acf
+msgid "All previous Add-ons have been successfully installed"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:320
+#@ acf
+msgid "This website uses premium Add-ons which need to be downloaded"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:320
+#@ acf
+msgid "Download your activated Add-ons"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:325
+#@ acf
+msgid "This website does not use premium Add-ons and will not be affected by this change."
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:335
+#@ acf
+msgid "Easier Development"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:337
+#@ acf
+msgid "New Field Types"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:339
+#@ acf
+msgid "Taxonomy Field"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:340
+#@ acf
+msgid "User Field"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:341
+#@ acf
+msgid "Email Field"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:342
+#@ acf
+msgid "Password Field"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:344
+#@ acf
+msgid "Custom Field Types"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:345
+#@ acf
+msgid "Creating your own field type has never been easier! Unfortunately, version 3 field types are not compatible with version 4."
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:346
+#@ acf
+msgid "Migrating your field types is easy, please"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:346
+#@ acf
+msgid "follow this tutorial"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:346
+#@ acf
+msgid "to learn more."
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:348
+#@ acf
+msgid "Actions &amp; Filters"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:349
+#@ acf
+msgid "All actions & filters have received a major facelift to make customizing ACF even easier! Please"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:349
+#@ acf
+msgid "read this guide"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:349
+#@ acf
+msgid "to find the updated naming convention."
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:351
+#@ acf
+msgid "Preview draft is now working!"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:352
+#@ acf
+msgid "This bug has been squashed along with many other little critters!"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:352
+#@ acf
+msgid "See the full changelog"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:356
+#@ acf
+msgid "Important"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:358
+#@ acf
+msgid "Database Changes"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:359
+#@ acf
+msgid "Absolutely <strong>no</strong> changes have been made to the database between versions 3 and 4. This means you can roll back to version 3 without any issues."
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:361
+#@ acf
+msgid "Potential Issues"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:362
+#@ acf
+msgid "Do to the sizable changes surounding Add-ons, field types and action/filters, your website may not operate correctly. It is important that you read the full"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:362
+#@ acf
+msgid "Migrating from v3 to v4"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:362
+#@ acf
+msgid "guide to view the full list of changes."
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:365
+#@ acf
+msgid "Really Important!"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:365
+#@ acf
+msgid "If you updated the ACF plugin without prior knowledge of such changes, please roll back to the latest"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:365
+#@ acf
+msgid "version 3"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:365
+#@ acf
+msgid "of this plugin."
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:370
+#@ acf
+msgid "Thank You"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:371
+#@ acf
+msgid "A <strong>BIG</strong> thank you to everyone who has helped test the version 4 beta and for all the support I have received."
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:372
+#@ acf
+msgid "Without you all, this release would not have been possible!"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:376
+#@ acf
+msgid "Changelog for"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:393
+#@ acf
+msgid "Learn more"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:399
+#@ acf
+msgid "Overview"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:401
+#@ acf
+msgid "Previously, all Add-ons were unlocked via an activation code (purchased from the ACF Add-ons store). New to v4, all Add-ons act as separate plugins which need to be individually downloaded, installed and updated."
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:403
+#@ acf
+msgid "This page will assist you in downloading and installing each available Add-on."
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:405
+#@ acf
+msgid "Available Add-ons"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:407
+#@ acf
+msgid "The following Add-ons have been detected as activated on this website."
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:420
+#: acf/core/fields/file.php:109
+#: comments.php:37
+#: includes/custom-fields.php:41
+#: includes/custom-fields.php:1712
+#: includes/custom-fields.php:1986
+#: template-contact.php:95
+#: widgets/widget-contact-form.php:18
+#@ acf
+#@ um_lang
+msgid "Name"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:421
+#@ acf
+msgid "Activation Code"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:453
+#: includes/addons/acf-flexible-content/flexible-content.php:22
+#@ acf
+msgid "Flexible Content"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:463
+#@ acf
+msgid "Installation"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:465
+#@ acf
+msgid "For each Add-on available, please perform the following:"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:467
+#@ acf
+msgid "Download the Add-on plugin (.zip file) to your desktop"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:468
+#@ acf
+msgid "Navigate to"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:468
+#@ acf
+msgid "Plugins > Add New > Upload"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:469
+#@ acf
+msgid "Use the uploader to browse, select and install your Add-on (.zip file)"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:470
+#@ acf
+msgid "Once the plugin has been uploaded and installed, click the 'Activate Plugin' link"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:471
+#@ acf
+msgid "The Add-on is now installed and activated!"
+msgstr ""
+
+#: acf/core/controllers/field_groups.php:485
+#@ acf
+msgid "Awesome. Let's get to work"
+msgstr ""
+
+#: acf/core/controllers/input.php:63
+#@ acf
+msgid "Expand Details"
+msgstr ""
+
+#: acf/core/controllers/input.php:64
+#@ acf
+msgid "Collapse Details"
+msgstr ""
+
+#: acf/core/controllers/input.php:67
+#@ acf
+msgid "Validation Failed. One or more fields below are required."
+msgstr ""
+
+#: acf/core/controllers/upgrade.php:74
+#@ acf
+msgid "Upgrade"
+msgstr ""
+
+#: acf/core/controllers/upgrade.php:596
+#@ acf
+msgid "Modifying field group options 'show on page'"
+msgstr ""
+
+#: acf/core/controllers/upgrade.php:650
+#@ acf
+msgid "Modifying field option 'taxonomy'"
+msgstr ""
+
+#: acf/core/controllers/upgrade.php:747
+#@ acf
+msgid "Moving user custom fields from wp_options to wp_usermeta'"
+msgstr ""
+
+#: acf/core/fields/_base.php:124
+#: acf/core/views/meta_box_location.php:74
+#: includes/ui-drag/ui_drag-v4.php:24
+#@ acf
+msgid "Basic"
+msgstr ""
+
+#: acf/core/fields/checkbox.php:19
+#: acf/core/fields/taxonomy.php:323
+#@ acf
+msgid "Checkbox"
+msgstr ""
+
+#: acf/core/fields/checkbox.php:20
+#: acf/core/fields/radio.php:19
+#: acf/core/fields/select.php:19
+#: acf/core/fields/true_false.php:20
+#@ acf
+msgid "Choice"
+msgstr ""
+
+#: acf/core/fields/checkbox.php:146
+#: acf/core/fields/radio.php:147
+#: acf/core/fields/select.php:177
+#@ acf
+msgid "Choices"
+msgstr ""
+
+#: acf/core/fields/checkbox.php:147
+#: acf/core/fields/select.php:178
+#@ acf
+msgid "Enter each choice on a new line."
+msgstr ""
+
+#: acf/core/fields/checkbox.php:148
+#: acf/core/fields/select.php:179
+#@ acf
+msgid "For more control, you may specify both a value and label like this:"
+msgstr ""
+
+#: acf/core/fields/checkbox.php:149
+#: acf/core/fields/radio.php:153
+#: acf/core/fields/select.php:180
+#@ acf
+msgid "red : Red"
+msgstr ""
+
+#: acf/core/fields/checkbox.php:149
+#: acf/core/fields/radio.php:154
+#: acf/core/fields/select.php:180
+#@ acf
+msgid "blue : Blue"
+msgstr ""
+
+#: acf/core/fields/checkbox.php:166
+#: acf/core/fields/color_picker.php:89
+#: acf/core/fields/email.php:106
+#: acf/core/fields/number.php:116
+#: acf/core/fields/radio.php:196
+#: acf/core/fields/select.php:197
+#: acf/core/fields/text.php:116
+#: acf/core/fields/textarea.php:103
+#: acf/core/fields/true_false.php:94
+#: acf/core/fields/wysiwyg.php:199
+#@ acf
+msgid "Default Value"
+msgstr ""
+
+#: acf/core/fields/checkbox.php:167
+#: acf/core/fields/select.php:198
+#@ acf
+msgid "Enter each default value on a new line"
+msgstr ""
+
+#: acf/core/fields/checkbox.php:183
+#: acf/core/fields/message.php:20
+#: acf/core/fields/radio.php:212
+#: acf/core/fields/tab.php:20
+#: includes/addons/acf-flexible-content/flexible-content.php:23
+#: includes/addons/acf-flexible-content/views/options.php:16
+#: includes/addons/acf-flexible-content/views/options.php:47
+#: includes/addons/acf-repeater/repeater.php:23
+#: includes/addons/acf-repeater/views/options.php:30
+#: includes/addons/acf-repeater/views/options.php:356
+#@ acf
+msgid "Layout"
+msgstr ""
+
+#: acf/core/fields/checkbox.php:194
+#: acf/core/fields/radio.php:223
+#@ acf
+msgid "Vertical"
+msgstr ""
+
+#: acf/core/fields/checkbox.php:195
+#: acf/core/fields/radio.php:224
+#@ acf
+msgid "Horizontal"
+msgstr ""
+
+#: acf/core/fields/color_picker.php:19
+#@ acf
+msgid "Color Picker"
+msgstr ""
+
+#: acf/core/fields/color_picker.php:20
+#: acf/core/fields/date_picker/date_picker.php:20
+#: acf/core/fields/google-map.php:19
+#@ acf
+msgid "jQuery"
+msgstr ""
+
+#: acf/core/fields/date_picker/date_picker.php:19
+#@ acf
+msgid "Date Picker"
+msgstr ""
+
+#: acf/core/fields/date_picker/date_picker.php:55
+#@ acf
+msgid "Done"
+msgstr ""
+
+#: acf/core/fields/date_picker/date_picker.php:56
+#@ acf
+msgid "Today"
+msgstr ""
+
+#: acf/core/fields/date_picker/date_picker.php:59
+#@ acf
+msgid "Show a different month"
+msgstr ""
+
+#: acf/core/fields/date_picker/date_picker.php:126
+#@ acf
+msgid "Save format"
+msgstr ""
+
+#: acf/core/fields/date_picker/date_picker.php:127
+#@ acf
+msgid "This format will determin the value saved to the database and returned via the API"
+msgstr ""
+
+#: acf/core/fields/date_picker/date_picker.php:128
+#@ acf
+msgid "\"yymmdd\" is the most versatile save format. Read more about"
+msgstr ""
+
+#: acf/core/fields/date_picker/date_picker.php:128
+#: acf/core/fields/date_picker/date_picker.php:144
+#@ acf
+msgid "jQuery date formats"
+msgstr ""
+
+#: acf/core/fields/date_picker/date_picker.php:142
+#@ acf
+msgid "Display format"
+msgstr ""
+
+#: acf/core/fields/date_picker/date_picker.php:143
+#@ acf
+msgid "This format will be seen by the user when entering a value"
+msgstr ""
+
+#: acf/core/fields/date_picker/date_picker.php:144
+#@ acf
+msgid "\"dd/mm/yy\" or \"mm/dd/yy\" are the most used display formats. Read more about"
+msgstr ""
+
+#: acf/core/fields/date_picker/date_picker.php:158
+#@ acf
+msgid "Week Starts On"
+msgstr ""
+
+#: acf/core/fields/dummy.php:19
+#@ default
+msgid "Dummy"
+msgstr ""
+
+#: acf/core/fields/email.php:19
+#: comments.php:40
+#: includes/custom-fields.php:822
+#: template-contact.php:96
+#: widgets/widget-contact-form.php:19
+#@ acf
+#@ um_lang
+msgid "Email"
+msgstr ""
+
+#: acf/core/fields/email.php:107
+#: acf/core/fields/number.php:117
+#: acf/core/fields/text.php:117
+#: acf/core/fields/textarea.php:104
+#: acf/core/fields/wysiwyg.php:200
+#@ acf
+msgid "Appears when creating a new post"
+msgstr ""
+
+#: acf/core/fields/email.php:123
+#: acf/core/fields/number.php:133
+#: acf/core/fields/password.php:105
+#: acf/core/fields/text.php:131
+#: acf/core/fields/textarea.php:118
+#@ acf
+msgid "Placeholder Text"
+msgstr ""
+
+#: acf/core/fields/email.php:124
+#: acf/core/fields/number.php:134
+#: acf/core/fields/password.php:106
+#: acf/core/fields/text.php:132
+#: acf/core/fields/textarea.php:119
+#@ acf
+msgid "Appears within the input"
+msgstr ""
+
+#: acf/core/fields/email.php:138
+#: acf/core/fields/number.php:148
+#: acf/core/fields/password.php:120
+#: acf/core/fields/text.php:146
+#@ acf
+msgid "Prepend"
+msgstr ""
+
+#: acf/core/fields/email.php:139
+#: acf/core/fields/number.php:149
+#: acf/core/fields/password.php:121
+#: acf/core/fields/text.php:147
+#@ acf
+msgid "Appears before the input"
+msgstr ""
+
+#: acf/core/fields/email.php:153
+#: acf/core/fields/number.php:163
+#: acf/core/fields/password.php:135
+#: acf/core/fields/text.php:161
+#@ acf
+msgid "Append"
+msgstr ""
+
+#: acf/core/fields/email.php:154
+#: acf/core/fields/number.php:164
+#: acf/core/fields/password.php:136
+#: acf/core/fields/text.php:162
+#@ acf
+msgid "Appears after the input"
+msgstr ""
+
+#: acf/core/fields/file.php:19
+#@ acf
+msgid "File"
+msgstr ""
+
+#: acf/core/fields/file.php:20
+#: acf/core/fields/image.php:20
+#: acf/core/fields/wysiwyg.php:37
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:24
+#: shortcodes/dialog-forms.php:128
+#@ acf
+#@ um_lang
+msgid "Content"
+msgstr ""
+
+#: acf/core/fields/file.php:26
+#@ acf
+msgid "Select File"
+msgstr ""
+
+#: acf/core/fields/file.php:27
+#@ acf
+msgid "Edit File"
+msgstr ""
+
+#: acf/core/fields/file.php:28
+#@ acf
+msgid "Update File"
+msgstr ""
+
+#: acf/core/fields/file.php:29
+#: acf/core/fields/image.php:30
+#@ acf
+msgid "uploaded to this post"
+msgstr ""
+
+#: acf/core/fields/file.php:113
+#@ acf
+msgid "Size"
+msgstr ""
+
+#: acf/core/fields/file.php:123
+#@ acf
+msgid "No File Selected"
+msgstr ""
+
+#: acf/core/fields/file.php:123
+#@ acf
+msgid "Add File"
+msgstr ""
+
+#: acf/core/fields/file.php:153
+#: acf/core/fields/image.php:118
+#: acf/core/fields/taxonomy.php:371
+#@ acf
+msgid "Return Value"
+msgstr ""
+
+#: acf/core/fields/file.php:164
+#@ acf
+msgid "File Object"
+msgstr ""
+
+#: acf/core/fields/file.php:165
+#@ acf
+msgid "File URL"
+msgstr ""
+
+#: acf/core/fields/file.php:166
+#@ acf
+msgid "File ID"
+msgstr ""
+
+#: acf/core/fields/file.php:175
+#: acf/core/fields/image.php:158
+#@ acf
+msgid "Library"
+msgstr ""
+
+#: acf/core/fields/file.php:187
+#: acf/core/fields/image.php:171
+#@ acf
+msgid "Uploaded to post"
+msgstr ""
+
+#: acf/core/fields/google-map.php:18
+#: includes/custom-fields.php:754
+#@ acf
+#@ um_lang
+msgid "Google Map"
+msgstr ""
+
+#: acf/core/fields/google-map.php:33
+#@ acf
+msgid "Locating"
+msgstr ""
+
+#: acf/core/fields/google-map.php:34
+#@ acf
+msgid "Sorry, this browser does not support geolocation"
+msgstr ""
+
+#: acf/core/fields/google-map.php:120
+#@ acf
+msgid "Clear location"
+msgstr ""
+
+#: acf/core/fields/google-map.php:125
+#@ acf
+msgid "Find current location"
+msgstr ""
+
+#: acf/core/fields/google-map.php:126
+#@ acf
+msgid "Search for address..."
+msgstr ""
+
+#: acf/core/fields/google-map.php:162
+#@ acf
+msgid "Center"
+msgstr ""
+
+#: acf/core/fields/google-map.php:163
+#@ acf
+msgid "Center the initial map"
+msgstr ""
+
+#: acf/core/fields/google-map.php:199
+#@ acf
+msgid "Zoom"
+msgstr ""
+
+#: acf/core/fields/google-map.php:200
+#@ acf
+msgid "Set the initial zoom level"
+msgstr ""
+
+#: acf/core/fields/google-map.php:217
+#@ acf
+msgid "Height"
+msgstr ""
+
+#: acf/core/fields/google-map.php:218
+#@ acf
+msgid "Customise the map height"
+msgstr ""
+
+#: acf/core/fields/image.php:19
+#: includes/custom-fields.php:343
+#: includes/custom-fields.php:1043
+#: includes/custom-fields.php:1457
+#: includes/custom-fields.php:2024
+#@ acf
+#@ um_lang
+msgid "Image"
+msgstr ""
+
+#: acf/core/fields/image.php:27
+#@ acf
+msgid "Select Image"
+msgstr ""
+
+#: acf/core/fields/image.php:28
+#@ acf
+msgid "Edit Image"
+msgstr ""
+
+#: acf/core/fields/image.php:29
+#@ acf
+msgid "Update Image"
+msgstr ""
+
+#: acf/core/fields/image.php:83
+#@ acf
+msgid "Remove"
+msgstr ""
+
+#: acf/core/fields/image.php:84
+#: acf/core/views/meta_box_fields.php:108
+#: includes/addons/acf-flexible-content/views/options.php:168
+#: includes/addons/acf-repeater/views/options.php:82
+#@ acf
+msgid "Edit"
+msgstr ""
+
+#: acf/core/fields/image.php:90
+#@ acf
+msgid "No image selected"
+msgstr ""
+
+#: acf/core/fields/image.php:90
+#@ acf
+msgid "Add Image"
+msgstr ""
+
+#: acf/core/fields/image.php:119
+#: acf/core/fields/relationship.php:576
+#@ acf
+msgid "Specify the returned value on front end"
+msgstr ""
+
+#: acf/core/fields/image.php:129
+#@ acf
+msgid "Image Object"
+msgstr ""
+
+#: acf/core/fields/image.php:130
+#@ acf
+msgid "Image URL"
+msgstr ""
+
+#: acf/core/fields/image.php:131
+#@ acf
+msgid "Image ID"
+msgstr ""
+
+#: acf/core/fields/image.php:139
+#: includes/ui-drag/ui_drag-v3.php:133
+#: includes/ui-drag/ui_drag-v4.php:74
+#@ acf
+msgid "Preview Size"
+msgstr ""
+
+#: acf/core/fields/image.php:140
+#@ acf
+msgid "Shown when entering data"
+msgstr ""
+
+#: acf/core/fields/image.php:159
+#@ acf
+msgid "Limit the media library choice"
+msgstr ""
+
+#: acf/core/fields/message.php:19
+#: acf/core/fields/message.php:70
+#: acf/core/fields/true_false.php:79
+#: shortcodes/dialog-forms.php:205
+#: template-contact.php:97
+#: widgets/widget-contact-form.php:20
+#@ acf
+#@ um_lang
+msgid "Message"
+msgstr ""
+
+#: acf/core/fields/message.php:71
+#@ acf
+msgid "Text &amp; HTML entered here will appear inline with the fields"
+msgstr ""
+
+#: acf/core/fields/message.php:72
+#@ acf
+msgid "Please note that all text will first be passed through the wp function "
+msgstr ""
+
+#: acf/core/fields/number.php:19
+#@ acf
+msgid "Number"
+msgstr ""
+
+#: acf/core/fields/number.php:178
+#@ acf
+msgid "Minimum Value"
+msgstr ""
+
+#: acf/core/fields/number.php:194
+#@ acf
+msgid "Maximum Value"
+msgstr ""
+
+#: acf/core/fields/number.php:210
+#@ acf
+msgid "Step Size"
+msgstr ""
+
+#: acf/core/fields/page_link.php:18
+#@ acf
+msgid "Page Link"
+msgstr ""
+
+#: acf/core/fields/page_link.php:19
+#: acf/core/fields/post_object.php:19
+#: acf/core/fields/relationship.php:19
+#: acf/core/fields/taxonomy.php:19
+#: acf/core/fields/user.php:19
+#@ acf
+msgid "Relational"
+msgstr ""
+
+#: acf/core/fields/page_link.php:103
+#: acf/core/fields/post_object.php:268
+#: acf/core/fields/relationship.php:595
+#: acf/core/fields/relationship.php:674
+#: acf/core/views/meta_box_location.php:75
+#: widgets/widget-latest-posts.php:71
+#@ acf
+#@ um_lang
+msgid "Post Type"
+msgstr ""
+
+#: acf/core/fields/page_link.php:127
+#: acf/core/fields/post_object.php:317
+#: acf/core/fields/select.php:214
+#: acf/core/fields/taxonomy.php:337
+#: acf/core/fields/user.php:322
+#@ acf
+msgid "Allow Null?"
+msgstr ""
+
+#: acf/core/fields/page_link.php:148
+#: acf/core/fields/post_object.php:338
+#: acf/core/fields/select.php:233
+#@ acf
+msgid "Select multiple values?"
+msgstr ""
+
+#: acf/core/fields/password.php:19
+#@ acf
+msgid "Password"
+msgstr ""
+
+#: acf/core/fields/post_object.php:18
+#@ acf
+msgid "Post Object"
+msgstr ""
+
+#: acf/core/fields/post_object.php:292
+#: acf/core/fields/relationship.php:619
+#@ acf
+msgid "Filter from Taxonomy"
+msgstr ""
+
+#: acf/core/fields/radio.php:18
+#@ acf
+msgid "Radio Button"
+msgstr ""
+
+#: acf/core/fields/radio.php:105
+#: acf/core/views/meta_box_location.php:91
+#@ acf
+msgid "Other"
+msgstr ""
+
+#: acf/core/fields/radio.php:148
+#@ acf
+msgid "Enter your choices one per line"
+msgstr ""
+
+#: acf/core/fields/radio.php:150
+#@ acf
+msgid "Red"
+msgstr ""
+
+#: acf/core/fields/radio.php:151
+#@ acf
+msgid "Blue"
+msgstr ""
+
+#: acf/core/fields/radio.php:175
+#@ acf
+msgid "Add 'other' choice to allow for custom values"
+msgstr ""
+
+#: acf/core/fields/radio.php:187
+#@ acf
+msgid "Save 'other' values to the field's choices"
+msgstr ""
+
+#: acf/core/fields/relationship.php:18
+#@ acf
+msgid "Relationship"
+msgstr ""
+
+#: acf/core/fields/relationship.php:29
+#@ acf
+msgid "Maximum values reached ( {max} values )"
+msgstr ""
+
+#: acf/core/fields/relationship.php:429
+#@ acf
+msgid "Search..."
+msgstr ""
+
+#: acf/core/fields/relationship.php:440
+#@ acf
+msgid "Filter by post type"
+msgstr ""
+
+#: acf/core/fields/relationship.php:575
+#@ acf
+msgid "Return Format"
+msgstr ""
+
+#: acf/core/fields/relationship.php:586
+#@ acf
+msgid "Post Objects"
+msgstr ""
+
+#: acf/core/fields/relationship.php:587
+#@ acf
+msgid "Post IDs"
+msgstr ""
+
+#: acf/core/fields/relationship.php:653
+#@ acf
+msgid "Search"
+msgstr ""
+
+#: acf/core/fields/relationship.php:654
+#@ acf
+msgid "Post Type Select"
+msgstr ""
+
+#: acf/core/fields/relationship.php:662
+#@ acf
+msgid "Elements"
+msgstr ""
+
+#: acf/core/fields/relationship.php:663
+#@ acf
+msgid "Selected elements will be displayed in each result"
+msgstr ""
+
+#: acf/core/fields/relationship.php:672
+#: acf/core/views/meta_box_options.php:106
+#@ acf
+msgid "Featured Image"
+msgstr ""
+
+#: acf/core/fields/relationship.php:673
+#@ acf
+msgid "Post Title"
+msgstr ""
+
+#: acf/core/fields/relationship.php:685
+#@ acf
+msgid "Maximum posts"
+msgstr ""
+
+#: acf/core/fields/select.php:18
+#: acf/core/fields/select.php:109
+#: acf/core/fields/taxonomy.php:328
+#: acf/core/fields/user.php:313
+#@ acf
+msgid "Select"
+msgstr ""
+
+#: acf/core/fields/tab.php:19
+#@ acf
+msgid "Tab"
+msgstr ""
+
+#: acf/core/fields/tab.php:68
+#@ acf
+msgid "Use \"Tab Fields\" to better organize your edit screen by grouping your fields together under separate tab headings."
+msgstr ""
+
+#: acf/core/fields/tab.php:69
+#@ acf
+msgid "All the fields following this \"tab field\" (or until another \"tab field\" is defined) will be grouped together."
+msgstr ""
+
+#: acf/core/fields/tab.php:70
+#@ acf
+msgid "Use multiple tabs to divide your fields into sections."
+msgstr ""
+
+#: acf/core/fields/taxonomy.php:18
+#: acf/core/fields/taxonomy.php:278
+#@ acf
+msgid "Taxonomy"
+msgstr ""
+
+#: acf/core/fields/taxonomy.php:222
+#: acf/core/fields/taxonomy.php:231
+#@ acf
+msgid "None"
+msgstr ""
+
+#: acf/core/fields/taxonomy.php:312
+#: acf/core/fields/user.php:298
+#: acf/core/views/meta_box_fields.php:77
+#: acf/core/views/meta_box_fields.php:159
+#: includes/addons/acf-flexible-content/views/options.php:140
+#: includes/addons/acf-flexible-content/views/options.php:217
+#: includes/addons/acf-repeater/views/options.php:55
+#: includes/addons/acf-repeater/views/options.php:132
+#@ acf
+msgid "Field Type"
+msgstr ""
+
+#: acf/core/fields/taxonomy.php:322
+#: acf/core/fields/user.php:307
+#@ acf
+msgid "Multiple Values"
+msgstr ""
+
+#: acf/core/fields/taxonomy.php:324
+#: acf/core/fields/user.php:309
+#@ acf
+msgid "Multi Select"
+msgstr ""
+
+#: acf/core/fields/taxonomy.php:326
+#: acf/core/fields/user.php:311
+#@ acf
+msgid "Single Value"
+msgstr ""
+
+#: acf/core/fields/taxonomy.php:327
+#@ acf
+msgid "Radio Buttons"
+msgstr ""
+
+#: acf/core/fields/taxonomy.php:356
+#@ acf
+msgid "Load & Save Terms to Post"
+msgstr ""
+
+#: acf/core/fields/taxonomy.php:364
+#@ acf
+msgid "Load value based on the post's terms and update the post's terms on save"
+msgstr ""
+
+#: acf/core/fields/taxonomy.php:381
+#@ acf
+msgid "Term Object"
+msgstr ""
+
+#: acf/core/fields/taxonomy.php:382
+#@ acf
+msgid "Term ID"
+msgstr ""
+
+#: acf/core/fields/text.php:19
+#@ acf
+msgid "Text"
+msgstr ""
+
+#: acf/core/fields/text.php:176
+#: acf/core/fields/textarea.php:164
+#@ acf
+msgid "Formatting"
+msgstr ""
+
+#: acf/core/fields/text.php:177
+#: acf/core/fields/textarea.php:165
+#@ acf
+msgid "Effects value on front end"
+msgstr ""
+
+#: acf/core/fields/text.php:186
+#: acf/core/fields/textarea.php:174
+#@ acf
+msgid "No formatting"
+msgstr ""
+
+#: acf/core/fields/text.php:187
+#: acf/core/fields/textarea.php:176
+#@ acf
+msgid "Convert HTML into tags"
+msgstr ""
+
+#: acf/core/fields/text.php:195
+#: acf/core/fields/textarea.php:133
+#@ acf
+msgid "Character Limit"
+msgstr ""
+
+#: acf/core/fields/text.php:196
+#: acf/core/fields/textarea.php:134
+#@ acf
+msgid "Leave blank for no limit"
+msgstr ""
+
+#: acf/core/fields/textarea.php:19
+#@ acf
+msgid "Text Area"
+msgstr ""
+
+#: acf/core/fields/textarea.php:148
+#@ acf
+msgid "Rows"
+msgstr ""
+
+#: acf/core/fields/textarea.php:149
+#@ acf
+msgid "Sets the textarea height"
+msgstr ""
+
+#: acf/core/fields/textarea.php:175
+#@ acf
+msgid "Convert new lines into &lt;br /&gt; tags"
+msgstr ""
+
+#: acf/core/fields/true_false.php:19
+#@ acf
+msgid "True / False"
+msgstr ""
+
+#: acf/core/fields/true_false.php:80
+#@ acf
+msgid "eg. Show extra content"
+msgstr ""
+
+#: acf/core/fields/user.php:18
+#: acf/core/views/meta_box_location.php:94
+#@ acf
+msgid "User"
+msgstr ""
+
+#: acf/core/fields/user.php:271
+#@ acf
+msgid "Filter by role"
+msgstr ""
+
+#: acf/core/fields/wysiwyg.php:36
+#@ acf
+msgid "Wysiwyg Editor"
+msgstr ""
+
+#: acf/core/fields/wysiwyg.php:214
+#@ acf
+msgid "Toolbar"
+msgstr ""
+
+#: acf/core/fields/wysiwyg.php:246
+#@ acf
+msgid "Show Media Upload Buttons?"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:24
+#: includes/addons/acf-flexible-content/views/options.php:38
+#: includes/addons/acf-repeater/views/options.php:22
+#@ acf
+msgid "New Field"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:58
+#@ acf
+msgid "Field type does not exist"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:74
+#: includes/addons/acf-flexible-content/views/options.php:137
+#: includes/addons/acf-repeater/views/options.php:52
+#@ acf
+msgid "Field Order"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:75
+#: acf/core/views/meta_box_fields.php:127
+#: includes/addons/acf-flexible-content/views/options.php:138
+#: includes/addons/acf-flexible-content/views/options.php:186
+#: includes/addons/acf-repeater/views/options.php:53
+#: includes/addons/acf-repeater/views/options.php:101
+#@ acf
+msgid "Field Label"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:76
+#: acf/core/views/meta_box_fields.php:143
+#: includes/addons/acf-flexible-content/views/options.php:139
+#: includes/addons/acf-flexible-content/views/options.php:202
+#: includes/addons/acf-repeater/views/options.php:54
+#: includes/addons/acf-repeater/views/options.php:117
+#@ acf
+msgid "Field Name"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:78
+#@ acf
+msgid "Field Key"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:90
+#@ acf
+msgid "No fields. Click the <strong>+ Add Field</strong> button to create your first field."
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:105
+#: acf/core/views/meta_box_fields.php:108
+#: includes/addons/acf-flexible-content/views/options.php:165
+#: includes/addons/acf-flexible-content/views/options.php:168
+#: includes/addons/acf-repeater/views/options.php:79
+#: includes/addons/acf-repeater/views/options.php:82
+#@ acf
+msgid "Edit this Field"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:109
+#: includes/addons/acf-flexible-content/views/options.php:169
+#: includes/addons/acf-repeater/views/options.php:83
+#@ acf
+msgid "Read documentation for this field"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:109
+#: includes/addons/acf-flexible-content/views/options.php:169
+#: includes/addons/acf-repeater/views/options.php:83
+#@ acf
+msgid "Docs"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:110
+#: includes/addons/acf-flexible-content/views/options.php:170
+#: includes/addons/acf-repeater/views/options.php:84
+#@ acf
+msgid "Duplicate this Field"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:110
+#: includes/addons/acf-flexible-content/views/options.php:55
+#: includes/addons/acf-flexible-content/views/options.php:170
+#: includes/addons/acf-repeater/views/options.php:84
+#@ acf
+msgid "Duplicate"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:111
+#: includes/addons/acf-flexible-content/views/options.php:171
+#: includes/addons/acf-repeater/views/options.php:85
+#@ acf
+msgid "Delete this Field"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:111
+#: includes/addons/acf-flexible-content/views/options.php:50
+#: includes/addons/acf-flexible-content/views/options.php:171
+#: includes/addons/acf-repeater/views/options.php:85
+#@ acf
+msgid "Delete"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:128
+#@ acf
+msgid "This is the name which will appear on the EDIT page"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:144
+#: includes/addons/acf-flexible-content/views/options.php:203
+#: includes/addons/acf-repeater/views/options.php:118
+#@ acf
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:173
+#: includes/addons/acf-flexible-content/views/options.php:232
+#: includes/addons/acf-repeater/views/options.php:147
+#@ acf
+msgid "Field Instructions"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:174
+#@ acf
+msgid "Instructions for authors. Shown when submitting data"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:187
+#: includes/addons/acf-flexible-content/views/options.php:251
+#: includes/addons/acf-repeater/views/options.php:166
+#@ acf
+msgid "Required?"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:210
+#: includes/addons/acf-flexible-content/views/options.php:297
+#: includes/addons/acf-repeater/views/options.php:211
+#@ acf
+msgid "Conditional Logic"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:261
+#: acf/core/views/meta_box_location.php:117
+#: includes/addons/acf-flexible-content/views/options.php:348
+#: includes/addons/acf-repeater/views/options.php:262
+#@ acf
+msgid "is equal to"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:262
+#: acf/core/views/meta_box_location.php:118
+#: includes/addons/acf-flexible-content/views/options.php:349
+#: includes/addons/acf-repeater/views/options.php:263
+#@ acf
+msgid "is not equal to"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:280
+#: includes/addons/acf-flexible-content/views/options.php:367
+#: includes/addons/acf-repeater/views/options.php:281
+#@ acf
+msgid "Show this field when"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:286
+#: includes/addons/acf-flexible-content/views/options.php:373
+#: includes/addons/acf-repeater/views/options.php:287
+#@ acf
+msgid "all"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:287
+#: includes/addons/acf-flexible-content/views/options.php:374
+#: includes/addons/acf-repeater/views/options.php:288
+#@ acf
+msgid "any"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:290
+#: includes/addons/acf-flexible-content/views/options.php:377
+#: includes/addons/acf-repeater/views/options.php:291
+#@ acf
+msgid "these rules are met"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:304
+#: includes/addons/acf-flexible-content/views/options.php:389
+#: includes/addons/acf-repeater/views/options.php:305
+#@ acf
+msgid "Close Field"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:317
+#: includes/addons/acf-flexible-content/views/options.php:404
+#: includes/addons/acf-repeater/views/options.php:320
+#@ acf
+msgid "Drag and drop to reorder"
+msgstr ""
+
+#: acf/core/views/meta_box_fields.php:318
+#@ acf
+msgid "+ Add Field"
+msgstr ""
+
+#: acf/core/views/meta_box_location.php:48
+#@ acf
+msgid "Rules"
+msgstr ""
+
+#: acf/core/views/meta_box_location.php:49
+#@ acf
+msgid "Create a set of rules to determine which edit screens will use these advanced custom fields"
+msgstr ""
+
+#: acf/core/views/meta_box_location.php:60
+#@ acf
+msgid "Show this field group if"
+msgstr ""
+
+#: acf/core/views/meta_box_location.php:76
+#@ acf
+msgid "Logged in User Type"
+msgstr ""
+
+#: acf/core/views/meta_box_location.php:78
+#: acf/core/views/meta_box_location.php:79
+#@ acf
+msgid "Post"
+msgstr ""
+
+#: acf/core/views/meta_box_location.php:80
+#@ acf
+msgid "Post Category"
+msgstr ""
+
+#: acf/core/views/meta_box_location.php:81
+#@ acf
+msgid "Post Format"
+msgstr ""
+
+#: acf/core/views/meta_box_location.php:82
+#@ acf
+msgid "Post Status"
+msgstr ""
+
+#: acf/core/views/meta_box_location.php:83
+#@ acf
+msgid "Post Taxonomy"
+msgstr ""
+
+#: acf/core/views/meta_box_location.php:85
+#: acf/core/views/meta_box_location.php:86
+#@ acf
+msgid "Page"
+msgstr ""
+
+#: acf/core/views/meta_box_location.php:87
+#@ acf
+msgid "Page Type"
+msgstr ""
+
+#: acf/core/views/meta_box_location.php:88
+#@ acf
+msgid "Page Parent"
+msgstr ""
+
+#: acf/core/views/meta_box_location.php:89
+#@ acf
+msgid "Page Template"
+msgstr ""
+
+#: acf/core/views/meta_box_location.php:92
+#@ acf
+msgid "Attachment"
+msgstr ""
+
+#: acf/core/views/meta_box_location.php:93
+#@ acf
+msgid "Taxonomy Term"
+msgstr ""
+
+#: acf/core/views/meta_box_location.php:146
+#@ acf
+msgid "and"
+msgstr ""
+
+#: acf/core/views/meta_box_location.php:161
+#@ acf
+msgid "Add rule group"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:25
+#@ acf
+msgid "Order No."
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:26
+#@ acf
+msgid "Field groups are created in order <br />from lowest to highest"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:42
+#: includes/custom-fields.php:2011
+#@ acf
+#@ um_lang
+msgid "Position"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:52
+#@ acf
+msgid "High (after title)"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:53
+#@ acf
+msgid "Normal (after content)"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:54
+#@ acf
+msgid "Side"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:64
+#@ acf
+msgid "Style"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:74
+#@ acf
+msgid "Seamless (no metabox)"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:75
+#@ acf
+msgid "Standard (WP metabox)"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:84
+#@ acf
+msgid "Hide on screen"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:85
+#@ acf
+msgid "<b>Select</b> items to <b>hide</b> them from the edit screen"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:86
+#@ acf
+msgid "If multiple field groups appear on an edit screen, the first field group's options will be used. (the one with the lowest order number)"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:96
+#@ acf
+msgid "Permalink"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:97
+#@ acf
+msgid "Content Editor"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:98
+#@ acf
+msgid "Excerpt"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:100
+#@ acf
+msgid "Discussion"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:101
+#@ acf
+msgid "Comments"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:102
+#@ acf
+msgid "Revisions"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:103
+#@ acf
+msgid "Slug"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:104
+#@ acf
+msgid "Author"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:105
+#@ acf
+msgid "Format"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:107
+#@ acf
+msgid "Categories"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:108
+#@ acf
+msgid "Tags"
+msgstr ""
+
+#: acf/core/views/meta_box_options.php:109
+#@ acf
+msgid "Send Trackbacks"
+msgstr ""
+
+#: comments.php:5
+#@ um_lang
+msgid "Recent Comments"
+msgstr ""
+
+#: comments.php:25
+#@ um_lang
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:43
+#@ um_lang
+msgid "Website"
+msgstr ""
+
+#: comments.php:46
+#@ um_lang
+msgid "Comment"
+msgstr ""
+
+#: functions.php:42
+#@ um-lang
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:66
+#: widgets/widget-latest-posts.php:77
+#@ um_lang
+msgid "Portfolio"
+msgstr ""
+
+#: functions.php:67
+#@ um_lang
+msgid "Portfolios"
+msgstr ""
+
+#: functions.php:78
+#@ um_lang
+msgid "Contact Forms"
+msgstr ""
+
+#: functions.php:79
+#@ um_lang
+msgid "Contact Form"
+msgstr ""
+
+#: functions.php:96
+#: functions.php:98
+#@ um_lang
+msgid "Sidebar"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/flexible-content.php:28
+#: includes/addons/acf-repeater/repeater.php:29
+#: shortcodes/dialog-forms.php:131
+#@ acf
+#@ um_lang
+msgid "Add Row"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/flexible-content.php:31
+#@ acf
+msgid "layout"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/flexible-content.php:32
+#@ acf
+msgid "layouts"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/flexible-content.php:33
+#@ acf
+msgid "remove {layout}?"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/flexible-content.php:34
+#@ acf
+msgid "This field requires at least {min} {identifier}"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/flexible-content.php:35
+#@ acf
+msgid "This field has a limit of {max} {identifier}"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/flexible-content.php:36
+#@ acf
+msgid "This field requires at least {min} {label} {identifier}"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/flexible-content.php:37
+#@ acf
+msgid "Maximum {label} limit reached ({max} {identifier})"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/flexible-content.php:38
+#@ acf
+msgid "{available} {label} {identifier} available (max {max})"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/flexible-content.php:39
+#@ acf
+msgid "{required} {label} {identifier} required (min {min})"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/flexible-content.php:133
+#@ acf
+msgid "Flexible Content requires at least 1 layout"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/field.php:75
+#, php-format
+#@ acf
+msgid "Click the \"%s\" button below to start creating your layout"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:39
+#: includes/addons/acf-repeater/views/options.php:23
+#@ acf
+msgid "new_field"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:49
+#@ acf
+msgid "Reorder Layout"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:49
+#@ acf
+msgid "Reorder"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:50
+#@ acf
+msgid "Delete Layout"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:54
+#@ acf
+msgid "Add New Layout"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:55
+#@ acf
+msgid "Duplicate Layout"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:90
+#@ acf
+msgid "Display"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:99
+#: includes/addons/acf-repeater/views/options.php:367
+#@ acf
+msgid "Row"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:100
+#: includes/addons/acf-repeater/views/options.php:366
+#@ acf
+msgid "Table"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:149
+#: includes/addons/acf-repeater/views/options.php:63
+#@ acf
+msgid "No fields. Click the \"+ Add Sub Field button\" to create your first field."
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:187
+#: includes/addons/acf-repeater/views/options.php:102
+#@ acf
+msgid "This is the name which will appear on the edit page"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:269
+#: includes/addons/acf-repeater/views/options.php:184
+#@ acf
+msgid "Column Width"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:270
+#@ acf
+msgid "Leave blank for auto"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:389
+#: includes/addons/acf-repeater/views/options.php:305
+#@ acf
+msgid "Close Sub Field"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:405
+#: includes/addons/acf-repeater/views/options.php:321
+#@ acf
+msgid "+ Add Sub Field"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:414
+#: includes/addons/acf-repeater/views/options.php:375
+#@ acf
+msgid "Button Label"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:430
+#@ acf
+msgid "Minimum Layouts"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:444
+#@ acf
+msgid "Maximum Layouts"
+msgstr ""
+
+#: includes/addons/acf-options-page/acf-options-page.php:333
+#@ acf
+msgid "Options Updated"
+msgstr ""
+
+#: includes/addons/acf-options-page/acf-options-page.php:478
+#@ acf
+msgid "No Custom Field Group found for the options page"
+msgstr ""
+
+#: includes/addons/acf-options-page/acf-options-page.php:478
+#@ acf
+msgid "Create a Custom Field Group"
+msgstr ""
+
+#: includes/addons/acf-options-page/acf-options-page.php:493
+#@ acf
+msgid "Save Options"
+msgstr ""
+
+#: includes/addons/acf-repeater/repeater.php:22
+#@ acf
+msgid "Repeater"
+msgstr ""
+
+#: includes/addons/acf-repeater/repeater.php:32
+#@ acf
+msgid "Minimum rows reached ( {min} rows )"
+msgstr ""
+
+#: includes/addons/acf-repeater/repeater.php:33
+#@ acf
+msgid "Maximum rows reached ( {max} rows )"
+msgstr ""
+
+#: includes/addons/acf-repeater/views/options.php:44
+#@ acf
+msgid "Repeater Fields"
+msgstr ""
+
+#: includes/addons/acf-repeater/views/options.php:300
+#@ acf
+msgid "Save Field"
+msgstr ""
+
+#: includes/addons/acf-repeater/views/options.php:328
+#@ acf
+msgid "Minimum Rows"
+msgstr ""
+
+#: includes/addons/acf-repeater/views/options.php:342
+#@ acf
+msgid "Maximum Rows"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:29
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:23
+#@ default
+msgid "Code Area"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:134
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:69
+#@ acf
+msgid "Language"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:144
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:79
+#@ acf
+msgid "CSS"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:145
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:80
+#@ acf
+msgid "Javascript"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:146
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:81
+#@ acf
+msgid "HTML"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:147
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:82
+#@ acf
+msgid "PHP"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:155
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:91
+#@ acf
+msgid "Theme"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:156
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:92
+#@ acf
+msgid "Set a theme for the editor (<a href=\"http://codemirror.net/demo/theme.html\" target=\"_blank\">Preview Here</a>) "
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:165
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:101
+#@ acf
+msgid "Default"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:166
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:102
+#@ acf
+msgid "Ambiance"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:167
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:103
+#@ acf
+msgid "Blackboard"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:168
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:104
+#@ acf
+msgid "Cobalt"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:169
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:105
+#@ acf
+msgid "Eclipse"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:170
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:106
+#@ acf
+msgid "Elegant"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:171
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:107
+#@ acf
+msgid "Erlang Dark"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:172
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:108
+#@ acf
+msgid "Lesser Dark"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:173
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:109
+#@ acf
+msgid "Midnight"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:174
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:110
+#@ acf
+msgid "Monokai"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:175
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:111
+#@ acf
+msgid "Neat"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:176
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:112
+#@ acf
+msgid "Night"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:177
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:113
+#@ acf
+msgid "Rubyblue"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:178
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:114
+#@ acf
+msgid "Solarized"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:179
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:115
+#@ acf
+msgid "Twilight"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:180
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:116
+#@ acf
+msgid "Vibrant Ink"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:181
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:117
+#@ acf
+msgid "XQ Dark"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:182
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:118
+#@ acf
+msgid "XQ Light"
+msgstr ""
+
+#: includes/custom-fields.php:10
+#@ um_lang
+msgid "Our Portfolio Label"
+msgstr ""
+
+#: includes/custom-fields.php:22
+#@ um_lang
+msgid "What We Do Label"
+msgstr ""
+
+#: includes/custom-fields.php:34
+#: includes/custom-fields.php:1705
+#: portfolio-case-study.php:31
+#@ um_lang
+msgid "Services"
+msgstr ""
+
+#: includes/custom-fields.php:54
+#: includes/custom-fields.php:1725
+#: includes/custom-fields.php:1999
+#: portfolio-case-study.php:22
+#: portfolio-projects-page.php:54
+#@ um_lang
+msgid "Description"
+msgstr ""
+
+#: includes/custom-fields.php:66
+#: includes/custom-fields.php:1748
+#@ um_lang
+msgid "Icon"
+msgstr ""
+
+#: includes/custom-fields.php:178
+#@ um_lang
+msgid "URL"
+msgstr ""
+
+#: includes/custom-fields.php:197
+#: includes/custom-fields.php:1036
+#: includes/custom-fields.php:1451
+#@ um_lang
+msgid "Slider"
+msgstr ""
+
+#: includes/custom-fields.php:204
+#@ um_lang
+msgid "Big Heading"
+msgstr ""
+
+#: includes/custom-fields.php:217
+#@ um_lang
+msgid "Big Heading Animation"
+msgstr ""
+
+#: includes/custom-fields.php:246
+#@ um_lang
+msgid "Small Heading"
+msgstr ""
+
+#: includes/custom-fields.php:259
+#@ um_lang
+msgid "Small Heading Animation"
+msgstr ""
+
+#: includes/custom-fields.php:288
+#: includes/custom-fields.php:1137
+#: includes/custom-fields.php:1281
+#@ um_lang
+msgid "Button Text"
+msgstr ""
+
+#: includes/custom-fields.php:301
+#: includes/custom-fields.php:1150
+#: includes/custom-fields.php:1293
+#@ um_lang
+msgid "Button URL"
+msgstr ""
+
+#: includes/custom-fields.php:314
+#: includes/custom-fields.php:1163
+#@ um_lang
+msgid "Button Animation"
+msgstr ""
+
+#: includes/custom-fields.php:353
+#@ um_lang
+msgid "Image Animation"
+msgstr ""
+
+#: includes/custom-fields.php:390
+#@ um_lang
+msgid "Client Heading"
+msgstr ""
+
+#: includes/custom-fields.php:402
+#: includes/custom-fields.php:664
+#@ um_lang
+msgid "Clients"
+msgstr ""
+
+#: includes/custom-fields.php:408
+#: includes/custom-fields.php:670
+#@ um_lang
+msgid "Client Logo"
+msgstr ""
+
+#: includes/custom-fields.php:418
+#: includes/custom-fields.php:680
+#@ um_lang
+msgid "Client URL"
+msgstr ""
+
+#: includes/custom-fields.php:462
+#@ um_lang
+msgid "Main Logo"
+msgstr ""
+
+#: includes/custom-fields.php:471
+#@ um_lang
+msgid "Favicon"
+msgstr ""
+
+#: includes/custom-fields.php:480
+#@ um_lang
+msgid "Smartphone Logo"
+msgstr ""
+
+#: includes/custom-fields.php:489
+#@ um_lang
+msgid "Skin Mode"
+msgstr ""
+
+#: includes/custom-fields.php:503
+#@ um_lang
+msgid "White Borders"
+msgstr ""
+
+#: includes/custom-fields.php:517
+#@ um_lang
+msgid "Google Fonts"
+msgstr ""
+
+#: includes/custom-fields.php:530
+#@ um_lang
+msgid "Google Fonts Italic"
+msgstr ""
+
+#: includes/custom-fields.php:543
+#@ um_lang
+msgid "Brand Color"
+msgstr ""
+
+#: includes/custom-fields.php:550
+#@ um_lang
+msgid "Heading 1 Font Size"
+msgstr ""
+
+#: includes/custom-fields.php:563
+#@ um_lang
+msgid "Heading 2 Font Size"
+msgstr ""
+
+#: includes/custom-fields.php:576
+#@ um_lang
+msgid "Heading 3 Font Size"
+msgstr ""
+
+#: includes/custom-fields.php:589
+#@ um_lang
+msgid "Heading 4 Font Size"
+msgstr ""
+
+#: includes/custom-fields.php:602
+#@ um_lang
+msgid "Heading 5 Font Size"
+msgstr ""
+
+#: includes/custom-fields.php:615
+#@ um_lang
+msgid "Heading 6 Font Size"
+msgstr ""
+
+#: includes/custom-fields.php:652
+#: includes/custom-fields.php:1677
+#: includes/custom-fields.php:1967
+#@ um_lang
+msgid "Page Heading"
+msgstr ""
+
+#: includes/custom-fields.php:724
+#@ um_lang
+msgid "Map Type"
+msgstr ""
+
+#: includes/custom-fields.php:737
+#@ um_lang
+msgid "Custom Map"
+msgstr ""
+
+#: includes/custom-fields.php:775
+#@ um_lang
+msgid "Map zoom"
+msgstr ""
+
+#: includes/custom-fields.php:799
+#@ um_lang
+msgid "Contact Info"
+msgstr ""
+
+#: includes/custom-fields.php:810
+#@ um_lang
+msgid "Address"
+msgstr ""
+
+#: includes/custom-fields.php:834
+#@ um_lang
+msgid "Phone"
+msgstr ""
+
+#: includes/custom-fields.php:846
+#@ um_lang
+msgid "Contact Form Email"
+msgstr ""
+
+#: includes/custom-fields.php:857
+#: includes/custom-fields.php:894
+#@ um_lang
+msgid "Success Message"
+msgstr ""
+
+#: includes/custom-fields.php:905
+#@ um_lang
+msgid "Receieving E-mail"
+msgstr ""
+
+#: includes/custom-fields.php:941
+#@ um_lang
+msgid "Number Of Projects"
+msgstr ""
+
+#: includes/custom-fields.php:954
+#@ um_lang
+msgid "Exclude Categories"
+msgstr ""
+
+#: includes/custom-fields.php:1053
+#@ um_lang
+msgid "Big Label"
+msgstr ""
+
+#: includes/custom-fields.php:1066
+#@ um_lang
+msgid "Big Label Animation"
+msgstr ""
+
+#: includes/custom-fields.php:1095
+#@ um_lang
+msgid "Small Label"
+msgstr ""
+
+#: includes/custom-fields.php:1108
+#@ um_lang
+msgid "Small Label Animation"
+msgstr ""
+
+#: includes/custom-fields.php:1192
+#@ um_lang
+msgid "Captions Skin"
+msgstr ""
+
+#: includes/custom-fields.php:1212
+#@ um_lang
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/custom-fields.php:1219
+#@ um_lang
+msgid "Overlay Opacity"
+msgstr ""
+
+#: includes/custom-fields.php:1257
+#@ um_lang
+msgid "Heading Text"
+msgstr ""
+
+#: includes/custom-fields.php:1269
+#@ um_lang
+msgid "SubHeading Text"
+msgstr ""
+
+#: includes/custom-fields.php:1357
+#@ um_lang
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/custom-fields.php:1366
+#@ um_lang
+msgid "Custom JavaScript"
+msgstr ""
+
+#: includes/custom-fields.php:1375
+#@ um_lang
+msgid "Google Analytic\\'s Tracking Code"
+msgstr ""
+
+#: includes/custom-fields.php:1383
+#@ um_lang
+msgid "Ajax Site"
+msgstr ""
+
+#: includes/custom-fields.php:1398
+#@ um_lang
+msgid "Smooth Scrolling"
+msgstr ""
+
+#: includes/custom-fields.php:1436
+#@ um_lang
+msgid "Portfolio Layout"
+msgstr ""
+
+#: includes/custom-fields.php:1467
+#@ um_lang
+msgid "Video URL"
+msgstr ""
+
+#: includes/custom-fields.php:1498
+#@ um_lang
+msgid "Project Button Text"
+msgstr ""
+
+#: includes/custom-fields.php:1521
+#@ um_lang
+msgid "Project Button URL"
+msgstr ""
+
+#: includes/custom-fields.php:1544
+#@ um_lang
+msgid "Project Services / Brief Text"
+msgstr ""
+
+#: includes/custom-fields.php:1567
+#@ um_lang
+msgid "Project Brief / Services"
+msgstr ""
+
+#: includes/custom-fields.php:1584
+#@ um_lang
+msgid "Item"
+msgstr ""
+
+#: includes/custom-fields.php:1603
+#@ um_lang
+msgid "Image Resize"
+msgstr ""
+
+#: includes/custom-fields.php:1628
+#@ um_lang
+msgid "Transition "
+msgstr ""
+
+#: includes/custom-fields.php:1689
+#@ um_lang
+msgid "Aligment"
+msgstr ""
+
+#: includes/custom-fields.php:1738
+#@ um_lang
+msgid "Service Image"
+msgstr ""
+
+#: includes/custom-fields.php:1891
+#: includes/custom-fields.php:2034
+#@ um_lang
+msgid "Social Networks"
+msgstr ""
+
+#: includes/custom-fields.php:1898
+#: includes/custom-fields.php:2054
+#@ um_lang
+msgid "Social Network"
+msgstr ""
+
+#: includes/custom-fields.php:1924
+#: includes/custom-fields.php:2041
+#@ um_lang
+msgid "Social Network URL"
+msgstr ""
+
+#: includes/custom-fields.php:1979
+#@ um_lang
+msgid "Team"
+msgstr ""
+
+#: includes/ui-drag/ui_drag-v3.php:29
+#: includes/ui-drag/ui_drag-v4.php:23
+#@ default
+msgid "UI Drag"
+msgstr ""
+
+#: includes/ui-drag/ui_drag-v3.php:134
+#: includes/ui-drag/ui_drag-v4.php:75
+#@ acf
+msgid "Thumbnail is advised"
+msgstr ""
+
+#: includes/ui-drag/ui_drag-v3.php:146
+#: includes/ui-drag/ui_drag-v4.php:87
+#@ default
+msgid "Something Else"
+msgstr ""
+
+#: includes/ui-drag/ui_drag-v4.php:125
+#@ um_lang
+msgid "Double Click on the map to add a pointer"
+msgstr ""
+
+#: includes/ui-drag/ui_drag-v4.php:143
+#@ um_lang
+msgid "City Name"
+msgstr ""
+
+#: portfolio-case-study.php:65
+#: portfolio-projects-page.php:82
+#@ um_lang
+msgid "Appreciate"
+msgstr ""
+
+#: portfolio-case-study.php:70
+#: portfolio-projects-page.php:91
+#@ um_lang
+msgid "Share"
+msgstr ""
+
+#: portfolio-case-study.php:71
+#: portfolio-projects-page.php:92
+#@ um_lang
+msgid "Tweet"
+msgstr ""
+
+#: portfolio-case-study.php:72
+#: portfolio-projects-page.php:93
+#@ um_lang
+msgid "Pin"
+msgstr ""
+
+#: shortcodes/dialog-forms.php:132
+#: shortcodes/dialog-forms.php:207
+#: shortcodes/dialog-forms.php:264
+#@ um_lang
+msgid "Get Shortcode"
+msgstr ""
+
+#: shortcodes/dialog-forms.php:196
+#@ um_lang
+msgid "Type"
+msgstr ""
+
+#: shortcodes/dialog-forms.php:198
+#@ um_lang
+msgid "Info"
+msgstr ""
+
+#: shortcodes/dialog-forms.php:199
+#@ um_lang
+msgid "Success"
+msgstr ""
+
+#: shortcodes/dialog-forms.php:200
+#@ um_lang
+msgid "Warning"
+msgstr ""
+
+#: template-blog.php:46
+#@ um_lang
+msgid "Filter categories"
+msgstr ""
+
+#: template-blog.php:99
+#: template-home-agency.php:279
+#: template-home-grid-2columns.php:225
+#: template-home-grid-3columns.php:226
+#: template-home-grid.php:226
+#: template-home-masonry.php:224
+#: template-masonry-backup.php:96
+#@ um_lang
+msgid "Load More"
+msgstr ""
+
+#: template-contact.php:36
+#@ um_lang
+msgid "Get in touch with us"
+msgstr ""
+
+#: template-contact.php:65
+#@ um_lang
+msgid "Contact info"
+msgstr ""
+
+#: template-contact.php:91
+#@ um_lang
+msgid "Get in touch"
+msgstr ""
+
+#: template-contact.php:108
+#@ um_lang
+msgid "Type the captcha"
+msgstr ""
+
+#: template-contact.php:112
+#: widgets/widget-contact-form.php:21
+#@ um_lang
+msgid "Send"
+msgstr ""
+
+#: template-home-agency.php:207
+#: template-home-grid-2columns.php:131
+#: template-home-grid-3columns.php:131
+#: template-home-grid.php:131
+#: template-home-masonry.php:130
+#: template-masonry-backup.php:17
+#@ um_lang
+msgid "Popular"
+msgstr ""
+
+#: template-home-agency.php:208
+#: template-home-grid-2columns.php:132
+#: template-home-grid-3columns.php:132
+#: template-home-grid.php:132
+#: template-home-masonry.php:131
+#: template-masonry-backup.php:18
+#@ um_lang
+msgid "Recent"
+msgstr ""
+
+#: template-home-agency.php:209
+#: template-home-grid-2columns.php:133
+#: template-home-grid-3columns.php:133
+#: template-home-grid.php:133
+#: template-home-masonry.php:132
+#: template-masonry-backup.php:19
+#@ um_lang
+msgid "Category"
+msgstr ""
+
+#: template-home-grid-2columns.php:89
+#: template-home-grid-2columns.php:215
+#: template-home-grid-3columns.php:89
+#: template-home-grid-3columns.php:216
+#: template-home-grid.php:89
+#: template-home-grid.php:216
+#: widgets/widget-latest-posts.php:41
+#@ um_lang
+msgid "in"
+msgstr ""
+
+#: widgets/widget-contact-form.php:44
+#: widgets/widget-latest-posts.php:67
+#@ um_lang
+msgid "Widget Title"
+msgstr ""
+
+#: widgets/widget-contact-form.php:48
+#@ um_lang
+msgid "Chose a Search Form from this dropdown"
+msgstr ""
+
+#: widgets/widget-latest-posts.php:74
+#@ um_lang
+msgid "Posts"
+msgstr ""
+

@@ -19,7 +19,7 @@
 define('DB_NAME', 'hatchitc_engldr');
 
 /** MySQL database username */
-define('DB_USER', 'hatchitc_endldr');
+define('DB_USER', 'hatchitc_engldr');
 
 /** MySQL database password */
 define('DB_PASSWORD', 'Baseball1');
