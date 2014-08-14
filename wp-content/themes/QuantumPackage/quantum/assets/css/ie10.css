@@ -1,0 +1,10 @@
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {  
+
+	.post_thumb_hover_g , .post_thumb_hover {
+		visibility:hidden;
+	}
+	.post_thumb_g:hover .post_thumb_hover_g , .project_con:hover .post_thumb_hover{
+		visibility:visible;
+	}
+
+}

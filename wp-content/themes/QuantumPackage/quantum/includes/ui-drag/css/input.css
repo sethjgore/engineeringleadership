@@ -1,0 +1,30 @@
+.um_ui_drag_dialog{
+    display: none;
+}
+
+.ui-widget-overlay{
+    z-index: 100 !important;
+}
+
+.um_ui_drag{
+    overflow: scroll;
+}
+
+.um-ui-container{
+    width:910px;
+    height:410px;
+    position: relative;
+}
+
+.um_svg_marker{
+    position: absolute;
+    display: block;
+}
+
+.um_svg_marker i{
+    color: #8fd0cc;
+    left: 24px;
+    float: left;
+    margin-right: 10px;
+    font-size: 27px;
+}

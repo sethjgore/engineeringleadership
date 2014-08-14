@@ -1,0 +1,1 @@
+[13-Aug-2014 16:09:18 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home5/hatchitc/public_html/engineeringleadership/wp-content/themes/Quantum Package/quantum/includes/addons/acf-flexible-content/acf-flexible-content.php on line 18

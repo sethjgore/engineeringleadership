@@ -1,0 +1,423 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quantum\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-14 15:22+0100\n"
+"PO-Revision-Date: 2014-07-21 12:46+0100\n"
+"Last-Translator: Burim Shala <burimi@umbrella.al>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\quantum\\wp-content\\themes\\quantum\n"
+
+#: comments.php:5
+msgid "Recent Comments"
+msgstr ""
+
+#: comments.php:25
+msgid "Leave a comment"
+msgstr ""
+
+#: portfolio-case-study.php:22
+#: portfolio-projects-page.php:54
+msgid "Description"
+msgstr ""
+
+#: portfolio-case-study.php:31
+msgid "Services"
+msgstr ""
+
+#: portfolio-case-study.php:65
+#: portfolio-projects-page.php:82
+msgid "Appreciate"
+msgstr ""
+
+#: portfolio-case-study.php:70
+#: portfolio-projects-page.php:91
+msgid "Share"
+msgstr ""
+
+#: portfolio-case-study.php:71
+#: portfolio-projects-page.php:92
+msgid "Tweet"
+msgstr ""
+
+#: portfolio-case-study.php:72
+#: portfolio-projects-page.php:93
+msgid "Pin"
+msgstr ""
+
+#: template-blog.php:46
+msgid "Filter categories"
+msgstr ""
+
+#: template-blog.php:99
+#: template-home-agency.php:279
+msgid "Load More"
+msgstr ""
+
+#: template-contact.php:36
+msgid "Get in touch with us"
+msgstr ""
+
+#: template-contact.php:65
+msgid "Contact info"
+msgstr ""
+
+#: template-contact.php:91
+msgid "Get in touch"
+msgstr ""
+
+#: template-contact.php:95
+msgid "Name"
+msgstr ""
+
+#: template-contact.php:96
+msgid "Email"
+msgstr ""
+
+#: template-contact.php:97
+msgid "Message"
+msgstr ""
+
+#: template-contact.php:108
+msgid "Type the captcha"
+msgstr ""
+
+#: template-contact.php:112
+msgid "Send"
+msgstr ""
+
+#: template-home-agency.php:207
+msgid "Popular"
+msgstr ""
+
+#: template-home-agency.php:208
+msgid "Recent"
+msgstr ""
+
+#: template-home-agency.php:209
+msgid "Category"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/flexible-content.php:133
+msgid "Flexible Content requires at least 1 layout"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:47
+#: includes/addons/acf-repeater/views/options.php:356
+msgid "Layout"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:49
+msgid "Reorder Layout"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:49
+msgid "Reorder"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:50
+msgid "Delete Layout"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:50
+#: includes/addons/acf-flexible-content/views/options.php:171
+#: includes/addons/acf-repeater/views/options.php:85
+msgid "Delete"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:54
+msgid "Add New Layout"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:54
+msgid "Add New"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:55
+msgid "Duplicate Layout"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:55
+#: includes/addons/acf-flexible-content/views/options.php:170
+#: includes/addons/acf-repeater/views/options.php:84
+msgid "Duplicate"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:90
+msgid "Display"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:137
+#: includes/addons/acf-repeater/views/options.php:52
+msgid "Field Order"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:138
+#: includes/addons/acf-flexible-content/views/options.php:186
+#: includes/addons/acf-repeater/views/options.php:53
+#: includes/addons/acf-repeater/views/options.php:101
+msgid "Field Label"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:139
+#: includes/addons/acf-flexible-content/views/options.php:202
+#: includes/addons/acf-repeater/views/options.php:54
+#: includes/addons/acf-repeater/views/options.php:117
+msgid "Field Name"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:140
+#: includes/addons/acf-flexible-content/views/options.php:217
+#: includes/addons/acf-repeater/views/options.php:55
+#: includes/addons/acf-repeater/views/options.php:132
+msgid "Field Type"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:149
+#: includes/addons/acf-repeater/views/options.php:63
+msgid "No fields. Click the \"+ Add Sub Field button\" to create your first field."
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:165
+#: includes/addons/acf-flexible-content/views/options.php:168
+#: includes/addons/acf-repeater/views/options.php:79
+#: includes/addons/acf-repeater/views/options.php:82
+msgid "Edit this Field"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:168
+#: includes/addons/acf-repeater/views/options.php:82
+msgid "Edit"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:169
+#: includes/addons/acf-repeater/views/options.php:83
+msgid "Read documentation for this field"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:169
+#: includes/addons/acf-repeater/views/options.php:83
+msgid "Docs"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:170
+#: includes/addons/acf-repeater/views/options.php:84
+msgid "Duplicate this Field"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:171
+#: includes/addons/acf-repeater/views/options.php:85
+msgid "Delete this Field"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:187
+#: includes/addons/acf-repeater/views/options.php:102
+msgid "This is the name which will appear on the edit page"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:203
+#: includes/addons/acf-repeater/views/options.php:118
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:232
+#: includes/addons/acf-repeater/views/options.php:147
+msgid "Field Instructions"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:251
+#: includes/addons/acf-repeater/views/options.php:166
+msgid "Required?"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:269
+#: includes/addons/acf-repeater/views/options.php:184
+msgid "Column Width"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:270
+msgid "Leave blank for auto"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:297
+#: includes/addons/acf-repeater/views/options.php:211
+msgid "Conditional Logic"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:367
+#: includes/addons/acf-repeater/views/options.php:281
+msgid "Show this field when"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:377
+#: includes/addons/acf-repeater/views/options.php:291
+msgid "these rules are met"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:389
+#: includes/addons/acf-repeater/views/options.php:305
+msgid "Close Field"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:389
+#: includes/addons/acf-repeater/views/options.php:305
+msgid "Close Sub Field"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:404
+#: includes/addons/acf-repeater/views/options.php:320
+msgid "Drag and drop to reorder"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:405
+#: includes/addons/acf-repeater/views/options.php:321
+msgid "+ Add Sub Field"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:414
+#: includes/addons/acf-repeater/views/options.php:375
+msgid "Button Label"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:430
+msgid "Minimum Layouts"
+msgstr ""
+
+#: includes/addons/acf-flexible-content/views/options.php:444
+msgid "Maximum Layouts"
+msgstr ""
+
+#: includes/addons/acf-options-page/acf-options-page.php:478
+msgid "No Custom Field Group found for the options page"
+msgstr ""
+
+#: includes/addons/acf-options-page/acf-options-page.php:478
+msgid "Create a Custom Field Group"
+msgstr ""
+
+#: includes/addons/acf-options-page/acf-options-page.php:489
+msgid "Publish"
+msgstr ""
+
+#: includes/addons/acf-options-page/acf-options-page.php:493
+msgid "Save Options"
+msgstr ""
+
+#: includes/addons/acf-repeater/views/options.php:44
+msgid "Repeater Fields"
+msgstr ""
+
+#: includes/addons/acf-repeater/views/options.php:300
+msgid "Save Field"
+msgstr ""
+
+#: includes/addons/acf-repeater/views/options.php:328
+msgid "Minimum Rows"
+msgstr ""
+
+#: includes/addons/acf-repeater/views/options.php:342
+msgid "Maximum Rows"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:134
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:69
+msgid "Language"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:155
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:91
+msgid "Theme"
+msgstr ""
+
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v3.php:156
+#: includes/advanced-custom-fields-code-area-field/acf_code_area-v4.php:92
+msgid "Set a theme for the editor (<a href=\"http://codemirror.net/demo/theme.html\" target=\"_blank\">Preview Here</a>) "
+msgstr ""
+
+#: includes/ui-drag/ui_drag-v3.php:133
+#: includes/ui-drag/ui_drag-v4.php:74
+msgid "Preview Size"
+msgstr ""
+
+#: includes/ui-drag/ui_drag-v3.php:134
+#: includes/ui-drag/ui_drag-v4.php:75
+msgid "Thumbnail is advised"
+msgstr ""
+
+#: includes/ui-drag/ui_drag-v4.php:125
+msgid "Double Click on the map to add a pointer"
+msgstr ""
+
+#: includes/ui-drag/ui_drag-v4.php:143
+msgid "City Name"
+msgstr ""
+
+#: shortcodes/dialog-forms.php:128
+#: shortcodes/dialog-forms.php:203
+msgid "Title"
+msgstr ""
+
+#: shortcodes/dialog-forms.php:128
+msgid "Content"
+msgstr ""
+
+#: shortcodes/dialog-forms.php:131
+msgid "Add Row"
+msgstr ""
+
+#: shortcodes/dialog-forms.php:132
+#: shortcodes/dialog-forms.php:207
+#: shortcodes/dialog-forms.php:264
+msgid "Get Shortcode"
+msgstr ""
+
+#: shortcodes/dialog-forms.php:196
+msgid "Type"
+msgstr ""
+
+#: shortcodes/dialog-forms.php:198
+msgid "Info"
+msgstr ""
+
+#: shortcodes/dialog-forms.php:199
+msgid "Success"
+msgstr ""
+
+#: shortcodes/dialog-forms.php:200
+msgid "Warning"
+msgstr ""
+
+#: shortcodes/dialog-forms.php:201
+msgid "Error"
+msgstr ""
+
+#: widgets/widget-contact-form.php:44
+#: widgets/widget-latest-posts.php:67
+msgid "Widget Title"
+msgstr ""
+
+#: widgets/widget-contact-form.php:48
+msgid "Chose a Search Form from this dropdown"
+msgstr ""
+
+#: widgets/widget-latest-posts.php:41
+msgid "in"
+msgstr ""
+
+#: widgets/widget-latest-posts.php:71
+msgid "Post Type"
+msgstr ""
+
+#: widgets/widget-latest-posts.php:74
+msgid "Posts"
+msgstr ""
+
+#: widgets/widget-latest-posts.php:77
+msgid "Portfolio"
+msgstr ""
+

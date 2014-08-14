@@ -1,0 +1,251 @@
+body {
+    background-color: #131313;
+    background-image: none;
+}
+
+.right-border, .left-border, .top-border, .bottom-border {
+    background-color: #131313;
+}
+
+
+.widget_title h5 {
+    color: #ccc;
+    border-color: #2f2f2f;
+}
+
+p {
+    color: #979797 !important;
+}
+
+
+a {
+    color: #979797 !important;
+}
+
+
+a:hover {
+    color: #8fd0cc !important;
+}
+
+.home_top h2 {
+    color: #fff;
+}
+
+.button_u {
+    padding: 10px 20px 10px 20px;
+    border: 2px solid #8fd0cc;
+    color: #8fd0cc !important;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 11px;
+    letter-spacing: 2px;
+    transition:all .3s ease-in-out;
+    -webkit-transition:all .3s ease-in-out;
+    -o-transition:all .3s ease-in-out;
+    -moz-transition:all .3s ease-in-out;
+    -ms-transition:all .3s ease-in-out;
+
+}
+
+.cart_icon a svg {
+    width: 24px;
+    height: 24px;
+    fill: #fff !important;
+}
+
+.button_u i {
+    margin-right: 5px;
+}
+.button_u:hover {
+    border: 2px solid #fff !important;
+    color: #fff !important;
+    text-decoration: none;
+}
+
+.navbar-nav  li a {
+    color: #a1a1a1 !important;
+}
+
+.navbar-nav  li a:hover {
+    color: #8fd0cc !important;
+}
+
+.widget_content .blog-recent-posts a {
+    color: #fff !important;
+}
+
+
+
+.page_top h2 {
+    color: #fff !important;
+}
+
+.project_desc h4 {
+    color: #fff !important;
+}
+
+.dropdown-menu {
+    background: #fff !important;
+}
+
+.navbar-nav > li a:after {
+    color: #a1a1a1 !important;
+}
+
+.post_title_g > a {
+    color: #fff !important;
+
+}
+
+input, textarea {
+    background: none !important;
+    border-color: #2f2f2f;
+}
+
+#w-send {
+    background: none !important;
+}
+
+.social-icons a {
+    background: #fff !important;
+    color: ##191919 !important;
+}
+
+.social-icons a:hover {
+    color: #fff !important;
+    background: #8fd0cc !important;
+}
+
+.widget_content .blog-recent-posts a:hover {
+    color: #8fd0cc !important;
+}
+
+.bullets-pr-slider ul li .active_bullet {
+    border-color: #8fd0cc !important;
+}
+
+.single_project i {
+    color: #8fd0cc !important;
+}
+
+.top_project {
+    color: #979797 !important;
+}
+
+.project_desc ul {
+    color: #979797 !important
+}
+
+.s_global h4 {
+    color: #fff;
+}
+
+.s_global i {
+    color: #fff;
+}
+
+.team_desc h2 {
+    color: #fff;
+}
+
+.default_top h2 {
+    color: #fff;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #fff;
+}
+
+.dropcap {
+    color: #Fff;
+}
+
+.et-icon {
+    color: #fff;
+}
+
+.content > ul li {
+    color: #979797 !important;
+}
+
+.content > ol li {
+    color: #979797 !important;
+}
+
+ul.accordion li a, ul.toggle li a, div.tabs ul.tab_buttons li a {
+    border-color: #252525;
+}
+
+ul.accordion li div, ul.toggle li div, div.tabs ul.tab_content li {
+    border-color: #252525;
+}
+
+ul.accordion li:first-child a, ul.toggle li:first-child a {
+    border-color: #252525;
+}
+
+div.tabs ul.tab_buttons li:first-child a {
+    border-color: #252525;
+}
+
+.agency_services_holder {
+    background: none !important;
+}
+
+.single_a_s i {
+    color: #fff !important;
+}
+
+.single_a_s a {
+    color: #fff !important;
+}
+
+.single_a_s a:hover {
+    color: #8fd0cc !important;
+}
+
+.button_s {
+
+    color:  #8fd0cc !important;
+}
+
+
+.button_s:hover {
+    color:  #fff !important;
+}
+
+.a_slider_bullets ul li .active_a_bullet {
+    color: #8fd0cc !important;
+}
+
+.svg_map img {
+    opacity: 0.1;
+}
+
+.widget_title h5 {
+    color: #fff;
+}
+
+ul li, ol li {
+    color: #979797 ;
+}
+
+.loading{
+
+    background-color: #131313 !important;
+
+}
+
+.loader {
+    background-color: #131313 !important;
+    opacity: 0.8;
+}
+
+body.page-template-template-services-fullscreen-php .header {
+background-color: #131313 !important;
+}
+
+body > div.header > div.right_header > button > span {
+background: #FFF;
+}

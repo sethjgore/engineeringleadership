@@ -1,0 +1,16 @@
+/*
+Theme Name: Quantum Child
+Description: A child theme of Quantum Theme
+Author: Umbrella
+Version: 1.0
+Template: quantum
+*/
+@import url("../quantum/style.css");
+
+.agency_services .a_title_top{
+  margin-top: 20rem;
+  color: hsl(36, 100%, 50%);
+}
+.single_a_s{
+  margin-top: 3rem;
+}

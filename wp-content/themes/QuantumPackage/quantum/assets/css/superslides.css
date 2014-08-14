@@ -1,0 +1,151 @@
+#slides {
+  position: relative;
+}
+#slides .slides-container {
+  display: none;
+}
+#slides .scrollable {
+  *zoom: 1;
+  position: relative;
+  top: 0;
+  left: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  height: 100%;
+}
+#slides .scrollable:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.slides-navigation {
+
+  z-index: 3;
+  /* top: 34px; */
+/*   min-width: 88px; */
+
+
+}
+.slides-navigation a {
+  position: relative;
+  display: inline-block;
+  color: white;
+  outline: none;
+}
+.slides-navigation a i{
+    color: #fff;
+    font-size: 12px;
+    background: #000;
+    padding: 15px 15px 15px 15px;
+    opacity: 0.3;
+    transition:all .1s ease-in-out;
+    -webkit-transition:all .1s ease-in-out;
+    -o-transition:all .1s ease-in-out;
+    -moz-transition:all .1s ease-in-out;
+    -ms-transition:all .1s ease-in-out;
+}
+.slides-navigation a i:hover{
+    background: #8fd0cc;
+    opacity: 1;
+}
+.slides-navigation a.prev {
+  float: left;
+  margin:0 10px;
+}
+.slides-navigation a.next {
+  float: right;
+    margin-right: 40px;
+}
+
+.slides-navigation a.close_btn {
+  float: left;
+} 
+
+
+.slides-navigation_bottom {
+  margin: 0 auto;
+  position: fixed;
+  z-index: 3;
+  bottom: 34px;
+  right: 80px;
+/*   min-width: 88px; */
+  max-width: 142px;
+  top: auto;
+}
+
+.slides-navigation_bottom.slides-navigation_bottom_with_back {
+  margin: 0 auto;
+  position: fixed;
+  z-index: 3;
+  bottom: 34px;
+  right: 30px;
+/*   min-width: 88px; */
+  max-width: 142px;
+  top: auto;
+  right: 79px !important;
+}
+
+.slides-navigation_bottom_with_back.slides-navigation {
+	right: 79px;
+}
+
+.slides-navigation_bottom a {
+  position: relative;
+  display: inline-block;
+  color: white;
+  outline: none;
+}
+.slides-navigation_bottom a i{
+	width: 40px;
+	height: 40px;
+	font-size: 18px;
+	padding: 10px;
+	float: left;
+	text-align: center;
+	border: 1px solid #fff;
+	color: #fff;
+	font-weight: normal;
+	border-radius: 50%;
+}
+.slides-navigation_bottom a i:hover{
+	color: #2bec8f;
+	border: 1px solid #2bec8f;
+}
+.slides-navigation_bottom a.prev {
+  float: left;
+}
+.slides-navigation_bottom a.next {
+  float: right;
+}
+
+.slides-navigation_bottom a.close_btn {
+   float: left;
+}
+
+.slides-pagination {
+  position: absolute;
+  z-index: 3;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+}
+.slides-pagination a {
+  border: 2px solid #222;
+  border-radius: 15px;
+  width: 10px;
+  height: 10px;
+  display: -moz-inline-stack;
+  display: inline-block;
+  vertical-align: middle;
+  *vertical-align: auto;
+  zoom: 1;
+  *display: inline;
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=");
+  margin: 2px;
+  overflow: hidden;
+  text-indent: -100%;
+}
+.slides-pagination a.current {
+  background: #222;
+}
