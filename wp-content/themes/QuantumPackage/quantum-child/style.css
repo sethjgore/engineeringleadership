@@ -14,3 +14,7 @@ Template: quantum
 .single_a_s{
   margin-top: 3rem;
 }
+
+.is__bg--white{
+  background: white;
+}
