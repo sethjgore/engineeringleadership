@@ -178,7 +178,7 @@ if(isset($_REQUEST["um_load_more"]) && $_REQUEST["um_load_more"]):
     </div>
     <?php endif; ?>
 
-    <?php
+    <!-- <?php
     $arguments = array();
     $arguments["post_type"] = "portfolio";
     $exlucde_cats = get_field("exclude_categories");
@@ -311,12 +311,14 @@ if(isset($_REQUEST["um_load_more"]) && $_REQUEST["um_load_more"]):
         ?>
     </div>
     <?php endif; ?>
+    -->
+
 	<?php if(get_field("display_footer") != "Disabled"): ?>
     <div class="container sidebar1">
         <?php dynamic_sidebar('sidebar');wp_reset_postdata(); ?>
     </div>
 	<?php endif; ?>
-		
+
     <script type="text/javascript">
         String.prototype.repeat = function( num ){
             return new Array( num + 1 ).join( this );
@@ -391,7 +393,7 @@ if(isset($_REQUEST["um_load_more"]) && $_REQUEST["um_load_more"]):
 				}
             });
             /*Make Slider Navigate By Swipe*/
-			
+
 			/*Make Slider Autoslide*/
 			<?php if(get_field("slider_autoslide") != "Disabled"): ?>
 			var is_hover = false;
@@ -400,7 +402,7 @@ if(isset($_REQUEST["um_load_more"]) && $_REQUEST["um_load_more"]):
 			},function(){
 				is_hover = false;
 			});
-			
+
 			function play_next_slide(){
 				if(!is_hover){
 					var cur_bullet = $(".agency_slider").find("a.active_a_bullet");
