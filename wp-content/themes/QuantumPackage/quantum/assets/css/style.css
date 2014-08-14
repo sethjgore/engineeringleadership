@@ -746,7 +746,7 @@ input:focus, textarea:focus {
     .cart_icon {
         margin-left: 0px !important
     }
-	
+
 	.google_map {
 	height: 300px !important;
 	}
@@ -939,8 +939,8 @@ input:focus, textarea:focus {
         left: 0px;
         z-index: 99999;
         width: 100%;
-        height: 100vh !important;
-        max-height: 100vh;
+        /*height: 100vh !important;
+        max-height: 100vh; */
         margin-top: 70px;
     }
 
@@ -2542,7 +2542,7 @@ div.select_drop_down{
 	display:none;
 }
 @media (max-width: 1080px){
-	.responsive_logo { display: block; width: 100%; left: 0;position: absolute; } 
+	.responsive_logo { display: block; width: 100%; left: 0;position: absolute; }
 	div.select_drop_down{ display:block; }
 	div.select_menu_activated{ display:none !important; }
 	.navbar-toggle{ display:block; }
