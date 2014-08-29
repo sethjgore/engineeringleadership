@@ -37,4 +37,9 @@ Template: quantum
 .affilations__box img{
   max-width: 75%;
   max-height: 136px;
+  margin-top: 1rem;
+}
+
+.is__text--center{
+  text-align: center;
 }

@@ -181,25 +181,25 @@ if(isset($_REQUEST["um_load_more"]) && $_REQUEST["um_load_more"]):
     <div class="affilations__box">
         <div class="container">
             <div class="row">
-                <div class="col-sm-12">
-                    <h3>Affilations</h3>
+                <div class="col-sm-12 is__text--center">
+                    <h3 class="is__text--center">Affilations</h3>
                 </div>
-                <div class="col-md-3">
-                            <p>ASTD & GBR</p>
+                <div class="col-md-3 is__text--center">
+                            <p>ASTD & GBR SHM</p>
         <img src="http://clients.hatchit.co/engineeringleadership/wp-content/uploads/2014/08/shrm_astd.png" class="attachment-medium" alt="shrm_astd">
 
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 is__text--center">
                     <p>Louisiana Engineering Society</p>
         <img src="http://clients.hatchit.co/engineeringleadership/wp-content/uploads/2014/08/LES-fixed.jpg" class="attachment-medium" alt="shrm_astd">
 
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 is__text--center">
                     <p>National Society of Professional Engineers</p>
         <img src="http://clients.hatchit.co/engineeringleadership/wp-content/uploads/2014/08/NSPE-fixed.jpg" class="attachment-medium" alt="shrm_astd">
 
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 ">
                     <p>American Society of Civil Engineers</p>
         <img src="http://clients.hatchit.co/engineeringleadership/wp-content/uploads/2014/08/ASCE-fixed.jpg" class="attachment-medium" alt="shrm_astd">
 
