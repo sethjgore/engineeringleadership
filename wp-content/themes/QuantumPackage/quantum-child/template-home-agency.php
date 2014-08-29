@@ -185,22 +185,22 @@ if(isset($_REQUEST["um_load_more"]) && $_REQUEST["um_load_more"]):
                     <h2 class="is__text--center mb3">Affilations</h3>
                 </div>
                 <div class="col-md-3 is__text--center">
-                            <div class="widget-title"><h5>ASTD & GBR SHM</h5></div>
+                            <div class="widget_title"><h5>ASTD & GBR SHM</h5></div>
         <img src="http://clients.hatchit.co/engineeringleadership/wp-content/uploads/2014/08/shrm_astd.png" class="attachment-medium" alt="shrm_astd">
 
                 </div>
                 <div class="col-md-3 is__text--center">
-                    <div class="widget-title"><h5>Louisiana Engineering Society</h5></div>
+                    <div class="widget_title"><h5>Louisiana Engineering Society</h5></div>
         <img src="http://clients.hatchit.co/engineeringleadership/wp-content/uploads/2014/08/LES-fixed.jpg" class="attachment-medium" alt="shrm_astd">
 
                 </div>
                 <div class="col-md-3 is__text--center">
-                    <div class="widget-title"><h5>National Society of Professional Engineers</h5></div>
+                    <div class="widget_title"><h5>National Society of Professional Engineers</h5></div>
         <img src="http://clients.hatchit.co/engineeringleadership/wp-content/uploads/2014/08/NSPE-fixed.jpg" class="attachment-medium" alt="shrm_astd">
 
                 </div>
                 <div class="col-md-3 ">
-                    <div class="widget-title"><h5>American Society of Civil Engineers</h5></div>
+                    <div class="widget_title"><h5>American Society of Civil Engineers</h5></div>
         <img src="http://clients.hatchit.co/engineeringleadership/wp-content/uploads/2014/08/ASCE-fixed.jpg" class="attachment-medium" alt="shrm_astd">
 
                 </div>
