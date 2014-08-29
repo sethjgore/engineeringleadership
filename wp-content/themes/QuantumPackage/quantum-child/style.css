@@ -23,3 +23,18 @@ Template: quantum
   height: auto;
   width: 41rem;
 }
+
+.affilations__box{
+  background: white;
+  border-top: 2px solid #e1e1e1;
+  border-bottom: 2px solid #e1e1e1;
+  padding: 2rem 0;
+}
+.affilations__box .col-md-3{
+  text-align: center;
+}
+
+.affilations__box img{
+  max-width: 75%;
+  max-height: 136px;
+}

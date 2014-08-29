@@ -4,25 +4,28 @@
     ?>
     <a <?php body_class($portfolio_gallery); ?>></a>
 </div>
-<div class="container">
+<div class="container affilations__box">
     <div class="row">
+        <div class="col-sm-12">
+            <h3>Affilations</h3>
+        </div>
         <div class="col-md-3">
-                    <h4>ASTD & GBR</h4>
+                    <p>ASTD & GBR</p>
 <img src="http://clients.hatchit.co/engineeringleadership/wp-content/uploads/2014/08/shrm_astd.png" class="attachment-medium" alt="shrm_astd">
 
         </div>
         <div class="col-md-3">
-            <h4>Louisiana Engineering Society</h4>
+            <p>Louisiana Engineering Society</p>
 <img src="http://clients.hatchit.co/engineeringleadership/wp-content/uploads/2014/08/LES-fixed.jpg" class="attachment-medium" alt="shrm_astd">
 
         </div>
         <div class="col-md-3">
-            <h4>National Society of Professional Engineers</h4>
+            <p>National Society of Professional Engineers</p>
 <img src="http://clients.hatchit.co/engineeringleadership/wp-content/uploads/2014/08/NSPE-fixed.jpg" class="attachment-medium" alt="shrm_astd">
 
         </div>
         <div class="col-md-3">
-            <h4>American Society of Civil Engineers</h4>
+            <p>American Society of Civil Engineers</p>
 <img src="http://clients.hatchit.co/engineeringleadership/wp-content/uploads/2014/08/ASCE-fixed.jpg" class="attachment-medium" alt="shrm_astd">
 
         </div>
