@@ -18,3 +18,8 @@ Template: quantum
 .is__bg--white{
   background: white;
 }
+
+.logo img{
+  height: auto;
+  width: 36rem;
+}
