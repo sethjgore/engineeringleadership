@@ -182,7 +182,7 @@ if(isset($_REQUEST["um_load_more"]) && $_REQUEST["um_load_more"]):
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 is__text--center">
-                    <h2 class="is__text--center mb2">Affilations</h3>
+                    <h2 class="is__text--center mb3">Affilations</h3>
                 </div>
                 <div class="col-md-3 is__text--center">
                             <p>ASTD & GBR SHM</p>
